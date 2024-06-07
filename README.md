@@ -13,6 +13,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 # String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0006-zigzag-conversion) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
 # Trie
 |  |
