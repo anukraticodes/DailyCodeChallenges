@@ -9,6 +9,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
 # Hash Table
 |  |
 | ------- |
@@ -70,3 +71,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
+| [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
