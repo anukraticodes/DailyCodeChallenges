@@ -18,6 +18,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1217-relative-sort-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1217-relative-sort-array) |
 # String
 |  |
@@ -46,6 +47,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -54,12 +56,14 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -69,6 +73,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +88,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1217-relative-sort-array) |
 # Counting Sort
