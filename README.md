@@ -6,6 +6,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -76,10 +77,12 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 # Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1217-relative-sort-array) |
 # Counting Sort
