@@ -49,6 +49,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1035-cousins-in-binary-tree) |
@@ -84,6 +85,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1035-cousins-in-binary-tree) |
@@ -114,3 +116,11 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0222-count-complete-tree-nodes) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0222-count-complete-tree-nodes) |
