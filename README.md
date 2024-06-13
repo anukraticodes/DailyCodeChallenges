@@ -43,6 +43,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
@@ -55,6 +56,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -66,6 +68,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0199-binary-tree-right-side-view) |
@@ -75,6 +78,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
