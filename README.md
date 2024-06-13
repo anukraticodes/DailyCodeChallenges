@@ -12,6 +12,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
 | ------- |
@@ -95,8 +96,13 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1217-relative-sort-array) |
+# Greedy
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
