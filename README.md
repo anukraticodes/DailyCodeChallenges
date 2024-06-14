@@ -7,6 +7,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -48,6 +49,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0101-symmetric-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0199-binary-tree-right-side-view) |
@@ -87,6 +89,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0101-symmetric-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0199-binary-tree-right-side-view) |
@@ -133,3 +136,11 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0222-count-complete-tree-nodes) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
