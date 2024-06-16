@@ -8,6 +8,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0330-patching-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
@@ -132,6 +133,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
