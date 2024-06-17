@@ -41,6 +41,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0633-sum-of-square-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0738-monotone-increasing-digits) |
 # Prefix Sum
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0330-patching-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0502-ipo) |
+| [0738-monotone-increasing-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0738-monotone-increasing-digits) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
