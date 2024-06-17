@@ -164,11 +164,14 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0232-implement-queue-using-stacks) |
 # Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0232-implement-queue-using-stacks) |
 # Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0232-implement-queue-using-stacks) |
