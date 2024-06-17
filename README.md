@@ -160,3 +160,15 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0502-ipo](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0502-ipo) |
+# Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0225-implement-stack-using-queues) |
+# Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0225-implement-stack-using-queues) |
+# Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0225-implement-stack-using-queues) |
