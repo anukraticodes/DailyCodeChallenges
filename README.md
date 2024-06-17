@@ -39,6 +39,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0633-sum-of-square-numbers) |
 # Sorting
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0633-sum-of-square-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0633-sum-of-square-numbers) |
 # Heap (Priority Queue)
 |  |
 | ------- |
