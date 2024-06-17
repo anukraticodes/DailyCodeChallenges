@@ -30,6 +30,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0006-zigzag-conversion) |
+| [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
 # Trie
 |  |
@@ -136,6 +137,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -165,6 +167,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
 # Design
 |  |
 | ------- |
@@ -175,3 +178,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0232-implement-queue-using-stacks) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
