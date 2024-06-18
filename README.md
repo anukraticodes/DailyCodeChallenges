@@ -12,6 +12,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0502-ipo](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
@@ -117,12 +118,14 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
 # Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
@@ -141,6 +144,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0502-ipo) |
 | [0738-monotone-increasing-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0738-monotone-increasing-digits) |
+| [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
@@ -160,6 +164,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
 # Heap (Priority Queue)
 |  |
 | ------- |
