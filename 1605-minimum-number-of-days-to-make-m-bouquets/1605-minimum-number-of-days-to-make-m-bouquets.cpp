@@ -4,7 +4,7 @@ public:
          if ((long long)bloomDay.size() < (long long)m * k) return -1;
         long long low=1, high=1e9;
         while(low<high){
-            long long mid=low + (high-low)/2;
+            long long mid=(high+low)/2;
 
             if(helper(bloomDay, m, k, mid)) high=mid;
             else low=mid+1;
