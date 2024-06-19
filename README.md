@@ -17,6 +17,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -166,6 +167,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0633-sum-of-square-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Heap (Priority Queue)
 |  |
 | ------- |
