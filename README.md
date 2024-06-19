@@ -6,6 +6,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
+| [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0330-patching-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0330-patching-array) |
@@ -22,6 +23,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 # Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -195,3 +197,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
