@@ -1,15 +1,25 @@
 class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        if(nums.size()<k) return -1;
-        vector<int> cnt(nums.size()+1, 0);
-        cnt[0]=1;
-        int ans=0, t=0;
-        for(int ele:nums){
-            t+=ele&1;
-            if(t-k>=0) ans+=cnt[t-k];
-            cnt[t]++;
+    unordered_map<int, int> prefixSumCount;
+    prefixSumCount[0] = 1; // To handle subarrays that start from the beginning
+    int prefixSum = 0;
+    int niceSubarrays = 0;
+    
+    for (int num : nums) {
+        // Update prefix sum based on whether the current number is odd or even
+        prefixSum += (num % 2);
+        
+        // Check if there's a previous prefix sum that matches the current sum - k
+        if (prefixSumCount.find(prefixSum - k) != prefixSumCount.end()) {
+            niceSubarrays += prefixSumCount[prefixSum - k];
         }
-        return ans;
+        
+        // Update the count of the current prefix sum in the hash map
+        prefixSumCount[prefixSum]++;
     }
+    
+    return niceSubarrays;
+}
+
 };
