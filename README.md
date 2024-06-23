@@ -16,6 +16,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
 | [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
+| [0943-sum-of-subarray-minimums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0943-sum-of-subarray-minimums) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1137-height-checker) |
@@ -125,6 +126,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0943-sum-of-subarray-minimums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0943-sum-of-subarray-minimums) |
 # Two Pointers
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0232-implement-queue-using-stacks](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
+| [0943-sum-of-subarray-minimums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0943-sum-of-subarray-minimums) |
 # Design
 |  |
 | ------- |
@@ -215,6 +218,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
+| [0943-sum-of-subarray-minimums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0943-sum-of-subarray-minimums) |
 # Matrix
 |  |
 | ------- |
