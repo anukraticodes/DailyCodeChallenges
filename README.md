@@ -6,6 +6,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -122,11 +123,13 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0124-binary-tree-maximum-path-sum) |
 # Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
@@ -188,6 +191,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0232-implement-queue-using-stacks) |
@@ -208,6 +212,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 # Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
 # Matrix
