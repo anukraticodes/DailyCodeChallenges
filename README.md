@@ -81,6 +81,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1285-balance-a-binary-search-tree) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +171,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0738-monotone-increasing-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0738-monotone-increasing-digits) |
 | [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Binary Search
 |  |
@@ -182,6 +186,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -189,6 +194,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0633-sum-of-square-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1285-balance-a-binary-search-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1675-magnetic-force-between-two-balls) |
 # Heap (Priority Queue)
