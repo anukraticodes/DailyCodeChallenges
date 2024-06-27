@@ -15,6 +15,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0502-ipo](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0648-replace-words) |
+| [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
 | [0853-most-profit-assigning-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-most-profit-assigning-work) |
 | [0943-sum-of-subarray-minimums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0943-sum-of-subarray-minimums) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -212,6 +213,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0232-implement-queue-using-stacks](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0943-sum-of-subarray-minimums) |
 # Design
 |  |
@@ -255,3 +257,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1916-find-center-of-star-graph) |
+# Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
