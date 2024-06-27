@@ -251,3 +251,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1916-find-center-of-star-graph) |
