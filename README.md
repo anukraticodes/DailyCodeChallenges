@@ -310,4 +310,13 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1293-three-consecutive-odds) |
+| [2227-sum-of-subarray-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2227-sum-of-subarray-ranges) |
+## Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2227-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
