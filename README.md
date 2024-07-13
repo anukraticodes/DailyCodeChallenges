@@ -317,6 +317,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -350,10 +351,12 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -380,4 +383,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
