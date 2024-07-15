@@ -8,11 +8,11 @@ public:
                 if(nums[l]==0) zeros--;
                 l++;
             }
-            if(zeros<=k){
+            
                
                 len=r-l+1;
                 maxlen=max(len,maxlen);
-            }
+            
              r++;
         }
         return maxlen;
