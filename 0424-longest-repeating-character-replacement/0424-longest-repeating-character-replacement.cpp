@@ -11,9 +11,9 @@ public:
                 mp[s[l]]--;
                 l++;
             }
-            
+            else{
                 len=max(len, r-l+1);
-            
+            }
         }
         
         return len;
