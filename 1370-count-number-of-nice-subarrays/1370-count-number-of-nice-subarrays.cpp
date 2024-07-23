@@ -1,25 +1,20 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-    unordered_map<int, int> prefixSumCount;
-    prefixSumCount[0] = 1; // To handle subarrays that start from the beginning
-    int prefixSum = 0;
-    int niceSubarrays = 0;
-    
-    for (int num : nums) {
-        // Update prefix sum based on whether the current number is odd or even
-        prefixSum += (num % 2);
-        
-        // Check if there's a previous prefix sum that matches the current sum - k
-        if (prefixSumCount.find(prefixSum - k) != prefixSumCount.end()) {
-            niceSubarrays += prefixSumCount[prefixSum - k];
+    int func(vector<int>& nums, int k) {
+        int l=0, r=0, cnt=0;
+        int num=0;
+        while(r<nums.size()){
+            if(nums[r]&1) cnt++;
+            while(cnt>k){
+               if(nums[l]&1) cnt--;
+               l++;
+            }
+            num+=(r-l+1);
+            r++;
         }
-        
-        // Update the count of the current prefix sum in the hash map
-        prefixSumCount[prefixSum]++;
+        return num;
     }
-    
-    return niceSubarrays;
-}
-
+    int numberOfSubarrays(vector<int>& nums, int k){
+        return func(nums,k)-func(nums,k-1);
+    }
 };
