@@ -1,17 +1,14 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        map<char, int> mp;
-        int r=0, l=0, cnt=0;
-        while(r<s.size()){
-            mp[s[r]]++;
-            while(mp['a']>=1&&mp['b']>=1&&mp['c']>=1){
-                cnt+=(s.size()-r);
-                mp[s[l]]--;
-                l++;
-            }
-            r++;
-        }
-        return cnt;
+       int arr[3]={-1,-1,-1};
+       int cnt=0;
+       for(int i=0; i<s.size(); i++){
+           arr[s[i]-'a']=i;
+           if(arr[0]!=-1&&arr[1]!=-1&&arr[2]!=-1){
+            cnt += 1 + min({arr[0], arr[1], arr[2]});
+           }
+       }
+       return cnt;
     }
 };
