@@ -13,10 +13,7 @@ public:
                  if(mat[i][j]==0){
                     vis[i][j]=1;
                     q.push({{i,j},0});
-                 }
-                 else{
-                    vis[i][j]=0;
-                 }
+                }
             }
         }
 
@@ -33,13 +30,8 @@ public:
                 vis[nrow][ncol]=1;
                 q.push({{nrow,ncol}, dis+1});
             }
-
         }
-        
-               }
-
-            return dist;
     }
-
-   
+        return dist;
+}
 };
