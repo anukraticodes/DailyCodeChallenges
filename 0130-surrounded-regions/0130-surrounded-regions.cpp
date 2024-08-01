@@ -1,46 +1,36 @@
 class Solution {
 public:
-    void solve(vector<vector<char>>& board) {
-        int n = board.size();
-        
-        int m = board[0].size();
-        queue<pair<int, int>> q;
-
-        
-        int drc[5] = {-1, 0, 1, 0, -1};
-
-        
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if ((i == 0 || i == n - 1 || j == 0 || j == m - 1) && board[i][j] == 'O') {
-                    q.push({i, j});
-                    board[i][j] = '#'; 
+    void solve(vector<vector<char>>& b) {
+        int n=b.size();
+        int m=b[0].size();
+        vector<vector<bool>> vis(n, vector<bool> (m, 0));
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if((i==0 || i==n-1 || j==0 || j==m-1) && b[i][j]=='O'){
+                     dfs(i, j, b, vis);
                 }
             }
         }
 
-        
-        while (!q.empty()) {
-            int row = q.front().first;
-            int col = q.front().second;
-            q.pop();
-
-            for (int i = 0; i < 4; i++) {
-                int nrow = row + drc[i];
-                int ncol = col + drc[i + 1];
-                
-                if (nrow >= 0 && ncol >= 0 && nrow < n && ncol < m && board[nrow][ncol] == 'O') {
-                    board[nrow][ncol] = '#'; 
-                    q.push({nrow, ncol});
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(b[i][j]=='O'&& !vis[i][j]){
+                    b[i][j]='X';
                 }
             }
         }
+    }
 
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (board[i][j] == 'O') board[i][j] = 'X';
-                if (board[i][j] == '#') board[i][j] = 'O';
+    void dfs(int row, int col, vector<vector<char>>& b, vector<vector<bool>> &vis){
+        int n=b.size();
+        int m=b[0].size();
+        vis[row][col]=1;
+        int drc[5]={-1, 0, 1, 0, -1};
+        for(int i=0; i<4; i++){
+            int nrow=row+drc[i];
+            int ncol=col+drc[i+1];
+            if(nrow>=0 && ncol>=0 && nrow<n && ncol<m && !vis[nrow][ncol] && b[nrow][ncol]=='O'){
+                dfs(nrow, ncol, b, vis);
             }
         }
     }
