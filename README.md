@@ -273,6 +273,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -317,6 +318,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
@@ -391,6 +393,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
