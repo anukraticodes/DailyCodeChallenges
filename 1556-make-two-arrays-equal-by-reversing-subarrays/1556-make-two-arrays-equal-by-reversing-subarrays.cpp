@@ -1,8 +1,17 @@
 class Solution {
 public:
     bool canBeEqual(vector<int>& target, vector<int>& arr) {
-        multiset<int> st(target.begin(), target.end());
-        multiset<int> st2(arr.begin(), arr.end());
-        return st==st2;
+        int freq[1001]={0}, M=-1;
+        for(int i=0; i<target.size(); i++){
+            int x=target[i], a=arr[i];
+            freq[x]++;
+            freq[a]--;
+            M=max({M, x, a});
+
+        }
+        for(int x=1; x<=M; x++){
+            if(freq[x]!=0) return 0;
+        }
+        return 1;
     }
 };
