@@ -7,7 +7,7 @@ public:
             mp[arr[i]]++;
         }
         vector<string> v;
-        for(const auto& str: arr){
+        for(auto str: arr){
            if(mp[str]==1) v.push_back(str);
         }
         if(k<=v.size()) return v[k-1];
