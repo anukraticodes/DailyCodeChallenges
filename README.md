@@ -269,6 +269,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
@@ -383,6 +384,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2163-kth-distinct-string-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2727-number-of-senior-citizens](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
@@ -455,6 +457,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [1642-water-bottles](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2645-pass-the-pillow) |
 ## Math
