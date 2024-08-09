@@ -374,6 +374,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
+| [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0921-spiral-matrix-iii) |
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
@@ -421,6 +422,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
+| [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0921-spiral-matrix-iii) |
 | [1036-rotting-oranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1073-number-of-enclaves) |
@@ -431,6 +433,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
+| [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
@@ -475,6 +478,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1951-find-the-winner-of-the-circular-game) |
