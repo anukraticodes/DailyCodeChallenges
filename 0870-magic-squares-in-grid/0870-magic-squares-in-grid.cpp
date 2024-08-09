@@ -5,8 +5,8 @@ public:
         int m=grid[0].size();
         if(n*m<9) return 0;
         int cnt=0;
-        for(int i=0; i<=n-3; i++){
-            for(int j=0; j<=m-3; j++){
+        for(int i=0; i<n-2; i++){
+            for(int j=0; j<m-2; j++){
                 if(helper(i, j, grid)) cnt++;
             }
         }
