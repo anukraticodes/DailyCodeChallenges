@@ -370,6 +370,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0040-combination-sum-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
@@ -536,4 +537,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
