@@ -6,12 +6,18 @@ public:
     }
 
 int helper(int i, int j, vector<vector<int>>& dp){
-    if(i==0 && j==0) return 1;
-    if(i<0 ||j<0) return 0;
-    if(dp[i][j]!=-1) return dp[i][j];
-    int up=helper(i-1, j, dp);
-    int left=helper(i, j-1, dp);
-    return dp[i][j]=up+left;
+   
+    dp[0][0]=1;
+    for(int row=0; row<=i; row++){
+        for(int col=0; col<=j; col++){
+            if(col==0&& row==0) continue;
+            int up=0, left=0;
+            if(row>0) up=dp[row-1][col];
+            if(col>0) left=dp[row][col-1];
+            dp[row][col]=up+left;
+        }
+    }
+    return dp[i][j];
 }
 
 };
