@@ -1,10 +1,7 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        set<int> s;
-        for(int i=0; i<arr.size(); i++){
-            s.insert(arr[i]);
-        }
+        set<int> s(arr.begin(), arr.end());
         unordered_map<int, int> ranks;
         int rank=1;
         for(auto& num:s){
