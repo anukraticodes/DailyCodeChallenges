@@ -415,6 +415,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0064-minimum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0213-house-robber-ii) |
@@ -477,6 +478,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0064-minimum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
