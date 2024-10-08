@@ -271,6 +271,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -286,6 +287,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1923-sentence-similarity-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2727-number-of-senior-citizens) |
@@ -298,6 +300,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -465,6 +468,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
