@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        if(s.size()==0) return 0;
+        // if(s.size()==0) return 0;
         stack<char> st;
         int cnt=0;
         for(int i=0; i<s.size(); i++){
