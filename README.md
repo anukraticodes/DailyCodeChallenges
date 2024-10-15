@@ -287,6 +287,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
@@ -532,6 +533,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
