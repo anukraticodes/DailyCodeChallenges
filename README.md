@@ -444,6 +444,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
@@ -551,6 +552,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
@@ -635,6 +637,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
