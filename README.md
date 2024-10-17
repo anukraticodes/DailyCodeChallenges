@@ -293,6 +293,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -549,6 +550,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
