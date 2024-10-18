@@ -283,6 +283,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
@@ -535,6 +536,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0064-minimum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0213-house-robber-ii) |
