@@ -404,6 +404,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -430,6 +431,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -614,6 +616,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
@@ -707,6 +710,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
 |  |
 | ------- |
@@ -722,6 +726,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Data Stream
 |  |
 | ------- |
