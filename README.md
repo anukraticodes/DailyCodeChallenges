@@ -521,6 +521,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2227-sum-of-subarray-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2554-minimum-total-distance-traveled) |
@@ -627,6 +628,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1741-sort-array-by-increasing-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -712,6 +714,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Strongly Connected Component
 |  |
@@ -803,6 +806,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Bitmask
 |  |
 | ------- |
