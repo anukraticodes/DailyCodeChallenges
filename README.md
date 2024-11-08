@@ -512,6 +512,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1741-sort-array-by-increasing-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [1923-sentence-similarity-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -707,6 +708,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
@@ -804,6 +806,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1940-maximum-xor-for-each-query](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1940-maximum-xor-for-each-query) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
