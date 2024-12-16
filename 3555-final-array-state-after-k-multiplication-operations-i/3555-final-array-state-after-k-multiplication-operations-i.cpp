@@ -1,23 +1,20 @@
 class Solution {
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int m) {
-        while(k--){
-            int ind=findSmallest(nums);
-            nums[ind]*=m;
-        }
-        return nums;
+    vector<pair<int, int>> heap;
+    for(int i=0; i<nums.size(); i++){
+        heap.push_back({nums[i],i});
     }
+    make_heap(heap.begin(), heap.end(), greater<>());
 
-    int findSmallest(vector<int>& nums){
-        int n=nums.size();
-        int num=INT_MAX;
-        int ind=0;
-        for(int i=0; i<n; i++){
-            if(nums[i]<num){
-                num=nums[i];
-                ind=i;
-            }
-        }
-        return ind;
-            }
+    while(k--){
+        pop_heap(heap.begin(), heap.end(), greater<>());
+        auto[value,i]=heap.back();
+        heap.pop_back();
+        nums[i]*=m;
+        heap.push_back({nums[i],i});
+        push_heap(heap.begin(), heap.end(), greater<>());
+    }
+    return nums;
+    }
 };
