@@ -4,7 +4,7 @@ public:
         map<char, int> mp;
         if(s=="") return 0;
         int l=0, r=0, len=INT_MIN;
-        while(l<s.size()&&r<s.size()){
+        while(r<s.size()){
             mp[s[r]]++;
             if(mp[s[r]]>1){
                while(mp[s[r]]!=1){
