@@ -401,6 +401,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0207-course-schedule](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
@@ -428,6 +429,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0207-course-schedule](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
@@ -755,6 +757,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -773,6 +776,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
