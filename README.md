@@ -484,6 +484,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0040-combination-sum-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
@@ -628,6 +629,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
@@ -710,6 +712,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0054-spiral-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
