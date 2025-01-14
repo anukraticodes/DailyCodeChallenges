@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
-          map<int, int> mp;
+          unordered_map<int, int> mp;
           int cnt=0;
           vector<int> ans;
           for(int i=0; i<A.size(); i++){
