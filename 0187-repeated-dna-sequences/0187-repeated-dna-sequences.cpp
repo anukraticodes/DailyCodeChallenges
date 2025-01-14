@@ -6,7 +6,7 @@ public:
         vector<string> result;
         set<string> ans;
         for(r=9; r<s.size(); r++){
-            cout<<s.substr(l,r-l+1)<<endl;
+            // cout<<s.substr(l,r-l+1)<<endl;
             if(st.contains(s.substr(l,r-l+1))){
                  ans.insert(s.substr(l,r-l+1));
             }
