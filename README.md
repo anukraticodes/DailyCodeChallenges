@@ -501,6 +501,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0198-house-robber](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0416-partition-equal-subset-sum) |
@@ -661,6 +662,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
@@ -698,6 +700,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
