@@ -1,16 +1,22 @@
 class Solution {
 public:
     vector<string> findRepeatedDnaSequences(string s) {
-        unordered_map<string, int> mp;
-        int l=0;
-        for(int r=9; r<s.size(); r++){
-            mp[s.substr(l,r-l+1)]++;
+        int l=0, r=0;
+        unordered_set<string> st;
+        vector<string> result;
+        unordered_set<string> ans;
+        for(r=9; r<s.size(); r++){
+            // cout<<s.substr(l,r-l+1)<<endl;
+            if(st.contains(s.substr(l,r-l+1))){
+                 ans.insert(s.substr(l,r-l+1));
+            }
+            st.insert(s.substr(l, r-l+1));
             l++;
         }
-        vector<string> ans;
-        for(unordered_map<string, int> ::iterator it=mp.begin(); it!=mp.end(); it++){
-            if(it->second>1) ans.push_back(it->first);
+        for(string val:ans){
+            result.push_back(val);
         }
-        return ans;
+
+        return result;
     }
 };
