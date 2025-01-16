@@ -561,6 +561,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -896,6 +897,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bitmask
 |  |
@@ -931,4 +933,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
