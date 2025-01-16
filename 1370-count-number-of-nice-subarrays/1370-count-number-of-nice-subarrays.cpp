@@ -1,22 +1,23 @@
 class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
-        int sum=0,ans=0; int n=nums.size();
-        
-        map<int, int> mp;
-        mp[0]=1;
-        for(int i=0; i<n; i++){
-            if(nums[i]%2!=0) nums[i]=1;
-            else nums[i]=0;
+       return func(nums,k)-func(nums,k-1);
+    }
+
+    int func(vector<int>& nums, int k){
+         for(int i=0; i<nums.size(); i++){
+            if(nums[i]%2==0) nums[i]=0;
+            else nums[i]=1;
         }
-      
-        for(int i=0; i<n; i++){
-            sum+=nums[i];
-            if(mp.find(sum-k)!=mp.end()){
-                ans+=mp[sum-k];
+        int r=0, l=0, sum=0, cnt=0;
+        for(r=0; r<nums.size(); r++){
+            sum+=nums[r];
+            while(sum>k){
+                sum-=nums[l];
+                l++;
             }
-            mp[sum]++;
+            cnt+=r-l+1;
         }
-        return ans;
+        return cnt;
     }
 };
