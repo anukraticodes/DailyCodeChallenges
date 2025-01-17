@@ -571,6 +571,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2691-count-vowel-strings-in-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -902,6 +903,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2792-neighboring-bitwise-xor) |
 ## Bitmask
 |  |
 | ------- |
