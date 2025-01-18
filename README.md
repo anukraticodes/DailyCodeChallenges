@@ -373,6 +373,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -393,6 +394,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -504,6 +506,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0198-house-robber](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -867,6 +870,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -948,4 +952,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
