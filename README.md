@@ -395,6 +395,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
+| [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -446,6 +447,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0207-course-schedule](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
@@ -510,6 +512,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
@@ -655,6 +658,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
+| [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0854-making-a-large-island) |
