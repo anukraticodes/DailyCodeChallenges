@@ -390,6 +390,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -495,6 +496,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Array
 |  |
 | ------- |
@@ -591,6 +593,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2792-neighboring-bitwise-xor) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
