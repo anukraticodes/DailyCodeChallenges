@@ -1,29 +1,37 @@
 class Solution {
 public:
     vector<bool> checkIfPrerequisite(int n, vector<vector<int>>& p, vector<vector<int>>& q) {
-        // Initialize reachability matrix
-        vector<vector<bool>> reachable(n, vector<bool>(n, false));
-
-        // Mark direct prerequisites
-        for (const auto& edge : p) {
-            reachable[edge[0]][edge[1]] = true;
+        vector<int> indegree(n,0);
+        vector<bool> ans;
+        vector<vector<int>> adj(n);
+        for(int i=0; i<p.size(); i++){
+            adj[p[i][0]].push_back(p[i][1]);
         }
-
-        // Transitive closure using Floyd-Warshall
-        for (int k = 0; k < n; ++k) {
-            for (int i = 0; i < n; ++i) {
-                for (int j = 0; j < n; ++j) {
-                    reachable[i][j] = reachable[i][j] || (reachable[i][k] && reachable[k][j]);
-                }
+        for(int i=0; i<adj.size(); i++){
+            for(int j=0; j<adj[i].size(); j++){
+                indegree[adj[i][j]]++;
             }
         }
-
-        // Answer queries
-        vector<bool> ans;
-        for (const auto& query : q) {
-            ans.push_back(reachable[query[0]][query[1]]);
+        queue<int> qu;
+        for(int i=0; i<n; i++){
+            if(indegree[i]==0) qu.push(i);
         }
-
-        return ans;
+        
+        unordered_map<int, unordered_set<int>> mp;
+        while(!qu.empty()){
+            int node=qu.front();
+            qu.pop();
+        
+            for(int nbr:adj[node]){
+                mp[nbr].insert(node);
+                for(auto pre:mp[node]) mp[nbr].insert(pre);
+                if(--indegree[nbr]==0) qu.push(nbr);
+            }
+        }
+        
+        for(int i=0; i<q.size(); i++){
+            ans.push_back(mp[q[i][1]].contains(q[i][0]));
+        }
+        return ans;        
     }
 };
