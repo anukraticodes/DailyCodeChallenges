@@ -1,28 +1,29 @@
 class Solution {
 public:
-
-    bool dfs(vector<vector<int>>& adj, int u, int v, vector<bool>& vis){
-        // int n=vis.size();
-        vis[u]=1;
-        for(auto nbr: adj[u]){
-            if(nbr==v) return true;
-            if (!vis[nbr] && dfs(adj, nbr, v, vis)) return true;
-        }
-        return false;
-    }
-
     vector<bool> checkIfPrerequisite(int n, vector<vector<int>>& p, vector<vector<int>>& q) {
-        vector<vector<int>> adj(n);
-        for(int i=0; i<p.size(); i++){
-            adj[p[i][0]].push_back(p[i][1]);
+        // Initialize reachability matrix
+        vector<vector<bool>> reachable(n, vector<bool>(n, false));
+
+        // Mark direct prerequisites
+        for (const auto& edge : p) {
+            reachable[edge[0]][edge[1]] = true;
         }
-        vector<bool> ans(q.size(), 0);
-        
-        for(int i=0; i<q.size(); i++){
-            vector<bool> vis(n,0);
-            if(dfs(adj,q[i][0], q[i][1],vis)) ans[i]=1;
+
+        // Transitive closure using Floyd-Warshall
+        for (int k = 0; k < n; ++k) {
+            for (int i = 0; i < n; ++i) {
+                for (int j = 0; j < n; ++j) {
+                    reachable[i][j] = reachable[i][j] || (reachable[i][k] && reachable[k][j]);
+                }
+            }
         }
+
+        // Answer queries
+        vector<bool> ans;
+        for (const auto& query : q) {
+            ans.push_back(reachable[query[0]][query[1]]);
+        }
+
         return ans;
-              
     }
 };
