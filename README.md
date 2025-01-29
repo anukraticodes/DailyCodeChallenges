@@ -357,6 +357,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0207-course-schedule](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -424,6 +425,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0744-network-delay-time) |
@@ -458,6 +460,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0744-network-delay-time) |
@@ -496,6 +499,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0854-making-a-large-island) |
