@@ -373,6 +373,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2379-maximum-total-importance-of-roads](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2379-maximum-total-importance-of-roads) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -481,6 +482,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1876-map-of-highest-peak](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1876-map-of-highest-peak) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -509,6 +511,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Array
