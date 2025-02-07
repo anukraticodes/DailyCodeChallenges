@@ -621,6 +621,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -754,6 +755,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2685-first-completely-painted-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
@@ -802,6 +804,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2299-merge-nodes-in-between-zeros](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
