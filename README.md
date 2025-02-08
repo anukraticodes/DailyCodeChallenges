@@ -414,6 +414,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2379-maximum-total-importance-of-roads) |
+| [2434-design-a-number-container-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -749,6 +750,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2163-kth-distinct-string-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2434-design-a-number-container-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -884,6 +886,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2434-design-a-number-container-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -947,6 +950,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2434-design-a-number-container-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2434-design-a-number-container-system) |
 ## Memoization
 |  |
 | ------- |
