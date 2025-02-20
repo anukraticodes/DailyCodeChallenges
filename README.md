@@ -318,6 +318,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2300-construct-string-with-repeat-limit) |
@@ -597,6 +598,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2107-find-unique-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2145-grid-game) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -755,6 +757,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -929,6 +932,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Shortest Path
