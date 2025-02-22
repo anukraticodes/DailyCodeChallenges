@@ -299,6 +299,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0889-buddy-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1250-longest-common-subsequence) |
@@ -443,6 +444,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0854-making-a-large-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1073-number-of-enclaves) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -899,6 +901,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -921,6 +924,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
