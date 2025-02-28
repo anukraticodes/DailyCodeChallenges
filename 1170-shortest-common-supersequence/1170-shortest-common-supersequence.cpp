@@ -29,7 +29,7 @@ public:
   string ans = "";
 
   while (i > 0 && j > 0) {
-    if (s1[i - 1] == s2[j - 1]) {
+    if (s1[i-1 ] == s2[j-1 ]) {
       ans += s1[i-1];
       index--;
       i--;
