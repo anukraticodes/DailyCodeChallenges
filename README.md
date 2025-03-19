@@ -532,6 +532,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0054-spiral-matrix) |
@@ -817,6 +818,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
