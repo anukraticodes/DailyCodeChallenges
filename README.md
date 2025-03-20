@@ -564,6 +564,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -833,6 +834,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
