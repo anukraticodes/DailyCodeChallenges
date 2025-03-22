@@ -1,11 +1,11 @@
 class Solution {
 public:
-
     bool helper(vector<int>& w, int days, int mid){
         int total=1, cnt=0;      
         for(int i=0; i<w.size(); i++){
             if(cnt+w[i]>mid){
                 total++;cnt=0;
+                if(total>days) return 0;
             }
             cnt+=w[i];
         }
