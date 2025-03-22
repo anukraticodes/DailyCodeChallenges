@@ -596,6 +596,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -852,6 +853,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0540-single-element-in-a-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
