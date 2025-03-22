@@ -387,6 +387,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2379-maximum-total-importance-of-roads](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2379-maximum-total-importance-of-roads) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Sorting
 |  |
@@ -468,6 +469,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -507,6 +509,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -535,6 +538,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Array
