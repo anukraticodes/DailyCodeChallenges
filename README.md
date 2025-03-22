@@ -847,6 +847,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0033-search-in-rotated-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0162-find-peak-element) |
@@ -893,6 +894,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
