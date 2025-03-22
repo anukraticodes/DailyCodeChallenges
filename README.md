@@ -851,6 +851,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
@@ -1123,4 +1124,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
