@@ -1,40 +1,39 @@
 class Solution {
 public:
-    int countPaths(int n, vector<vector<int>>& roads) {
-         vector<pair<int, int>> adj[n];  // Create adjacency list
-        for (auto& nbr : roads) {
-            adj[nbr[0]].push_back({nbr[1], nbr[2]});
-        adj[nbr[1]].push_back({nbr[0], nbr[2]});
-        }
+int countPaths(int n, vector<vector<int>>& roads) {
+    const int MOD = 1e9 + 7;
+    vector<vector<pair<int, int>>> adj(n);
+    
+    for (auto& road : roads) {
+        int u = road[0], v = road[1], wt = road[2];
+        adj[u].push_back({v, wt});
+        adj[v].push_back({u, wt});
+    }
+    vector<long long> dist(n, LLONG_MAX);
+    vector<int> ways(n, 0);
+    priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<>> pq;
 
-        priority_queue<pair<long long, long long>, vector<pair<long long, long long>>, greater<pair<long long, long long>>> pq;
-        vector<long long> dist(n, LLONG_MAX);  
-        vector<long long> ways(n, 0);
-        dist[0] = 0;
-        ways[0] = 1;
-        pq.push({0, 0});
-        const long long mod = 1e9 + 7;
+    dist[0] = 0;
+    ways[0] = 1; 
+    pq.push({0, 0});
 
-        while (!pq.empty()) {
-            long long dis = pq.top().first;
-            long long node = pq.top().second;
-            pq.pop();
+    while (!pq.empty()) {
+        auto [d, node] = pq.top();
+        pq.pop();
 
-            for (auto& it : adj[node]) {
-                long long adjNode = it.first;
-                long long edw = it.second;
+        if (d > dist[node]) continue; 
 
-                if (dis + edw < dist[adjNode]) {
-                    dist[adjNode] = dis + edw;
-                    pq.push({dis + edw, adjNode});
-                    ways[adjNode] = ways[node];
-                } else if (dis + edw == dist[adjNode]) {
-                    ways[adjNode] = (ways[adjNode] + ways[node]) % mod;
-                }
+        for (auto [nbr, wt] : adj[node]) {
+            if (dist[nbr] > d + wt) {
+                dist[nbr] = d + wt;
+                ways[nbr] = ways[node];  
+                pq.push({dist[nbr], nbr});
+            } else if (dist[nbr] == d + wt) {
+                ways[nbr] = (ways[nbr] + ways[node]) % MOD;
             }
         }
-
-        return ways[n - 1] % mod;
-
     }
+
+    return ways[n - 1];
+}
 };
