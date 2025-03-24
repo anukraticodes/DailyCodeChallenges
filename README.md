@@ -856,6 +856,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1132,4 +1133,5 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
