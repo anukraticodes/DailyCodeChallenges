@@ -4,7 +4,7 @@ public:
 bool helper(vector<int>& nums, int t, int mid){
     long long total=0;
     for(int i=0; i<nums.size(); i++){
-        total+=((long long)nums[i]+(long long)mid-(long long)1)/(long long)mid;
+        total+=(nums[i]+mid-1LL)/mid;
         if(total>t) return 0;
     }
     return 1;
