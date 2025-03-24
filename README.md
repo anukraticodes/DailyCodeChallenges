@@ -612,6 +612,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1364-tuple-with-same-product](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1396-count-servers-that-communicate) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -868,6 +869,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0907-koko-eating-bananas](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
