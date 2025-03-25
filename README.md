@@ -875,6 +875,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0907-koko-eating-bananas](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1646-kth-missing-positive-number) |
@@ -919,6 +920,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
+| [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1642-water-bottles) |
@@ -1084,6 +1086,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0062-unique-paths) |
+| [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1151,4 +1154,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0278-first-bad-version](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
