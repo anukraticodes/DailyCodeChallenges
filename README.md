@@ -416,6 +416,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -680,6 +681,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Stack
 |  |
 | ------- |
