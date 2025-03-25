@@ -25,18 +25,18 @@ public:
 }
 
 bool checkValidCuts(int n, vector<vector<int>>& rectangles) {
-    set<int> x, y;
+    // set<int> x, y;
     vector<pair<int, int>> rangex, rangey;
 
     for (const auto& rec : rectangles) {
-        x.insert(rec[0]);
-        y.insert(rec[1]);
-        y.insert(rec[3]);
-        x.insert(rec[2]);
+        // x.insert(rec[0]);
+        // y.insert(rec[1]);
+        // y.insert(rec[3]);
+        // x.insert(rec[2]);
         rangex.emplace_back(rec[0], rec[2]);
         rangey.emplace_back(rec[1], rec[3]);
     }
-    if (x.size() < 3 && y.size() < 3) return false;
+    // if (x.size() < 3 && y.size() < 3) return false;
 
     return merge(rangex) || merge(rangey);
 }
