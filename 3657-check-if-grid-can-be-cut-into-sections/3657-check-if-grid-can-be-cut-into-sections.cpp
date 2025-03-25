@@ -3,9 +3,10 @@ public:
     bool merge(vector<pair<int, int>>& ranges) {
     if (ranges.empty() || ranges.size() < 3) return false;
 
-    sort(ranges.begin(), ranges.end(), [&](const pair<int, int>& a, const pair<int, int>& b) {
-        return a.first < b.first;
-    });
+    // sort(ranges.begin(), ranges.end(), [&](const pair<int, int>& a, const pair<int, int>& b) {
+    //     return a.first < b.first;
+    // });
+    sort(ranges.begin(), ranges.end());
 
     vector<pair<int, int>> merged;
     int start = ranges[0].first, end = ranges[0].second;
