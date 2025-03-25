@@ -15,11 +15,11 @@ public:
         if (a < end) { 
             end = max(end, b);  
         } else {
-            merged.emplace_back(start, end);
+            merged.push_back({start, end});
             start = a, end = b;
         }
     }
-    merged.emplace_back(start, end); 
+    merged.push_back({start, end}); 
 
     return merged.size()>=3; 
 }
@@ -33,8 +33,8 @@ bool checkValidCuts(int n, vector<vector<int>>& rectangles) {
         // y.insert(rec[1]);
         // y.insert(rec[3]);
         // x.insert(rec[2]);
-        rangex.emplace_back(rec[0], rec[2]);
-        rangey.emplace_back(rec[1], rec[3]);
+        rangex.push_back({rec[0], rec[2]});
+        rangey.push_back({rec[1], rec[3]});
     }
     // if (x.size() < 3 && y.size() < 3) return false;
 
