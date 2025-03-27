@@ -289,6 +289,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0008-string-to-integer-atoi) |
 | [0072-edit-distance](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
