@@ -1,15 +1,18 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
+        vector<vector<int>> result;
+        vector<int> path;
+        helper(nums, 0, path, result);
+        return result;
+    }
 
-        for(int i=0; i<(1<<nums.size()); i++){
-            vector<int> sub;
-            for(int j=0; j<nums.size(); j++){
-                if(i&(1<<j)) sub.push_back(nums[j]);
-            }
-            ans.push_back(sub);
+    void helper(vector<int>& nums, int start, vector<int>& path, vector<vector<int>>& result){
+        result.push_back(path);
+        for(int i=start; i<nums.size(); i++){
+            path.push_back(nums[i]);
+            helper(nums, i+1, path, result);
+            path.pop_back();
         }
-        return ans;
     }
 };
