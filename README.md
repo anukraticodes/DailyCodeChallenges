@@ -371,6 +371,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -424,6 +425,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3430-count-days-without-meetings) |
@@ -688,6 +690,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
@@ -716,6 +719,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2227-sum-of-subarray-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -727,6 +731,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1002-maximum-width-ramp](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2227-sum-of-subarray-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2227-sum-of-subarray-ranges) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Dynamic Programming
 |  |
@@ -955,6 +960,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2448-count-number-of-bad-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2645-pass-the-pillow) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -1189,4 +1195,5 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
+| [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
