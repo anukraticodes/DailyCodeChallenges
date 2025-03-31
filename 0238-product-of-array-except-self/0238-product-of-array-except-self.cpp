@@ -7,9 +7,7 @@ public:
         }
         for(int i=nums.size()-2; i>=0; i--)
         postfix[i]=postfix[i+1]*nums[i+1];
-        for(int i=0; i<nums.size(); i++){
-            cout<<prefix[i]<<" "<<postfix[i]<<endl;
-        }
+        
         vector<int> ans(nums.size());
         for(int i=0; i<nums.size(); i++) ans[i]=prefix[i]*postfix[i];
         return ans;
