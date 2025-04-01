@@ -268,6 +268,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0768-partition-labels) |
@@ -301,6 +302,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
