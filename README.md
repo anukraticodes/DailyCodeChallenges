@@ -678,6 +678,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2227-sum-of-subarray-ranges) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -785,6 +786,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2262-solving-questions-with-brainpower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
