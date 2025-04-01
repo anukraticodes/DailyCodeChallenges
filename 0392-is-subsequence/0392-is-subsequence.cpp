@@ -5,6 +5,7 @@ public:
         for(int i=0; i<t.size(); i++){
             if(t[i]==s[j]){
                 j++;
+                if(j==s.size()) break;
             }
         }
         return j==s.size();
