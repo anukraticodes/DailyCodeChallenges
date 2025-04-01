@@ -268,6 +268,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
@@ -301,6 +302,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
@@ -767,6 +769,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
+| [0392-is-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0416-partition-equal-subset-sum) |
