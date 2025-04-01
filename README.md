@@ -266,6 +266,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0011-container-with-most-water) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0392-is-subsequence) |
@@ -358,6 +359,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
@@ -578,6 +580,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0035-search-insert-position) |
