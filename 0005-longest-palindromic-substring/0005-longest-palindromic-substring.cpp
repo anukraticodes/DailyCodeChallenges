@@ -14,7 +14,7 @@ public:
                     if(i-j+1>=maxl){
                         maxl=i-j+1;
                         start=j;
-                        end=i;
+                        // end=i;
                     }
                 }
             }
