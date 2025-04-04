@@ -21,8 +21,8 @@ public:
         auto r=dfs(root->right);
 
         if(l.second>r.second) return {l.first, l.second+1};
-        if(r.second>l.second) return {r.first, r.second+1};
+        else if(r.second>l.second) return {r.first, r.second+1};
 
-        return {root, l.second+1};
+        else return {root, l.second+1};
     }
 };
