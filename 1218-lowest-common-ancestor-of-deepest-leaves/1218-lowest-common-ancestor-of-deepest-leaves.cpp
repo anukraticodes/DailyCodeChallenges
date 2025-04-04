@@ -12,6 +12,7 @@
 class Solution {
 public:
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
+        cout<<(dfs(root).first)->val<<" "<<dfs(root).second<<endl;
         return dfs(root).first;
     }
 
@@ -23,6 +24,6 @@ public:
 
         if(left.second>right.second) return {left.first, left.second+1};
         if(right.second>left.second) return {right.first,right.second+1};
-        return {root, left.second+1};
+        return {root, right.second+1};
     }
 };
