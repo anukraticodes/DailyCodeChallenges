@@ -12,41 +12,17 @@
 class Solution {
 public:
     TreeNode* lcaDeepestLeaves(TreeNode* root) {
-        vector<pair<int, int>> last=bfs(root);
-        int a=last.begin()->second;
-        int b=last.rbegin()->second;
-        return lca(root, a, b);
+        return dfs(root).first;
     }
 
-    vector<pair<int, int>> bfs(TreeNode* root){
-        queue<TreeNode*> q;
-        q.push(root);
-        vector<vector<pair<int, int>>> v;
-        int h=0;
-        while(!q.empty()){
-            int size=q.size();
-            vector<pair<int, int>> st;
-            for(int i=0; i<size; i++){
-                auto curr=q.front();
-                q.pop();
-                st.push_back({h, curr->val});
-                if(curr->left) q.push(curr->left);
-                if(curr->right) q.push(curr->right);
-            }
-            v.push_back(st);
-            h++;
-        }
-        return v.back();
-    }
+    pair<TreeNode*, int> dfs(TreeNode* root){
+        if(!root) return {nullptr, 0};
 
-    TreeNode* lca(TreeNode* root, int& a, int &b){
-        if(!root || root->val==a || root->val==b) return root;
-        auto left=lca(root->left, a, b);
-        auto right=lca(root->right, a, b);
+        auto left=dfs(root->left);
+        auto right=dfs(root->right);
 
-        if(!left) return right;
-        else if(!right) return left;
-        return root;
-
+        if(left.second>right.second) return {left.first, left.second+1};
+        if(right.second>left.second) return {right.first,right.second+1};
+        return {root, left.second+1};
     }
 };
