@@ -630,6 +630,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
@@ -915,6 +916,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
