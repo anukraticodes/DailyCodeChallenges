@@ -353,6 +353,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3195-separate-black-and-white-balls) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -816,6 +817,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2262-solving-questions-with-brainpower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -1012,6 +1014,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2645-pass-the-pillow](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2645-pass-the-pillow) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
