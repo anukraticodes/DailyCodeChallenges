@@ -673,6 +673,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1656-count-good-triplets) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -1214,6 +1215,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2998-count-symmetric-integers) |
