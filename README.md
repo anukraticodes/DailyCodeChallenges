@@ -718,6 +718,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -898,6 +899,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2448-count-number-of-bad-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2448-count-number-of-bad-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -930,6 +932,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2478-longest-nice-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
