@@ -17,6 +17,7 @@ public:
                 }
             }
         }
+        
         for (int i = 2; i < MAX_N; i++) {
             int x = i;
             while (x > 1) {
@@ -37,7 +38,7 @@ public:
             }
         }
     }
-    
+
     int idealArrays(int n, int maxValue) {
         long long ans = 0;
         for (int x = 1; x <= maxValue; x++) {
