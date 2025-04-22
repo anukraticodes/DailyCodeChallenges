@@ -37,6 +37,7 @@ public:
             }
         }
     }
+    
     int idealArrays(int n, int maxValue) {
         long long ans = 0;
         for (int x = 1; x <= maxValue; x++) {
