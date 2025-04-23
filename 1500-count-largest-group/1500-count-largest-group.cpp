@@ -12,6 +12,8 @@ public:
             ++hashMap[key];
             maxValue = max(maxValue, hashMap[key]);
         }
+
+        
         int count = 0;
         for (auto& [_, value] : hashMap) {
             if (value == maxValue) {
