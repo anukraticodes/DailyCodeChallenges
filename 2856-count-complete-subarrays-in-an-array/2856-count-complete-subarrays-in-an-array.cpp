@@ -8,6 +8,7 @@ public:
         int unique_cnt=unique.size();
         for(int l=0; l<nums.size(); l++){
             if(l>0){
+                
                 int remove=nums[l-1];
                 cnt[remove]--;
                 if(cnt[remove]==0) cnt.erase(remove);
