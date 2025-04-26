@@ -9,6 +9,7 @@ public:
             int valid = max(0L, min(mini, maxi) - start);
             count += valid;
         }
+        
         return count;
     }
 };
