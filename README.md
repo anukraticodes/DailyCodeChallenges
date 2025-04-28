@@ -715,6 +715,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -946,6 +947,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -983,6 +985,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1081,6 +1084,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2145-grid-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
