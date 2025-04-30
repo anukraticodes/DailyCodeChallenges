@@ -667,6 +667,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -1031,6 +1032,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1146-greatest-common-divisor-of-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1642-water-bottles) |
