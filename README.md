@@ -378,6 +378,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0797-rabbits-in-forest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -656,6 +657,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1073-number-of-enclaves) |
