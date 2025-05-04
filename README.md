@@ -662,6 +662,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1063-best-sightseeing-pair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -893,6 +894,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1099,6 +1101,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1502-construct-k-palindrome-strings) |
