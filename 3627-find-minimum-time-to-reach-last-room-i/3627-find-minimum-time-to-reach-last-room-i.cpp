@@ -23,6 +23,8 @@ public:
                 Q.push({max(newd+1,a[x][y-1]+1),{x,y-1}});
                 dist[x][y-1]=max(newd+1,a[x][y-1]+1);
             }
+
+            
             if(x+1<n&&dist[x+1][y]>max(newd+1,a[x+1][y]+1)){
                 Q.push({max(newd+1,a[x+1][y]+1),{x+1,y}});
                 dist[x+1][y]=max(newd+1,a[x+1][y]+1);
