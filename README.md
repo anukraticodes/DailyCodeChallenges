@@ -744,6 +744,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2792-neighboring-bitwise-xor) |
+| [2808-painting-the-walls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2808-painting-the-walls) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
@@ -841,6 +842,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2415-count-the-number-of-ideal-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
+| [2808-painting-the-walls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2808-painting-the-walls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Matrix
 |  |
