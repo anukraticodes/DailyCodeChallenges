@@ -816,6 +816,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0070-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0152-maximum-product-subarray) |
@@ -1143,6 +1144,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1165,10 +1167,12 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1192,6 +1196,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0022-generate-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
