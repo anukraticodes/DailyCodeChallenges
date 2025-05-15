@@ -355,6 +355,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2727-number-of-senior-citizens](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -394,6 +395,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -754,6 +756,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -849,6 +852,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2554-minimum-total-distance-traveled](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2808-painting-the-walls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2808-painting-the-walls) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
