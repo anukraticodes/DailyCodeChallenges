@@ -1029,6 +1029,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -1154,6 +1155,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0226-invert-binary-tree) |
@@ -1180,11 +1182,13 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0226-invert-binary-tree) |
@@ -1237,6 +1241,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
