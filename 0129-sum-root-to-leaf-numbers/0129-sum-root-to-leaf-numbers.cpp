@@ -12,22 +12,27 @@
 class Solution {
 public:
 
-    void dfs(TreeNode* root, int current, int& total) {
+   void dfs(TreeNode* root, string current, vector<string>& result)
+{
     if (!root) return;
 
-    current = (current * 10 + root->val);
+    current += to_string(root->val); // change is local
 
-    if (!root->left && !root->right) {
-        total = (total + current);
-        return;
-    }
+    if (!root->left && !root->right)
+        result.push_back(current);
 
-    dfs(root->left, current, total);
-    dfs(root->right, current, total);
+    dfs(root->left, current, result);
+    dfs(root->right, current, result);
 }
+
     int sumNumbers(TreeNode* root) {
         int result=0;
-        dfs(root, 0, result);
+        vector<string> v;
+        string s="";
+        dfs(root, s, v);
+        for(auto st:v){
+            result+=stoi(st);
+        }
         return result;
     }
 };
