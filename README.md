@@ -304,6 +304,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0022-generate-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
@@ -907,6 +908,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
@@ -974,6 +976,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
