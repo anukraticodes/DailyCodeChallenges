@@ -590,6 +590,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0684-redundant-connection) |
@@ -628,6 +629,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -906,6 +908,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
