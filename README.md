@@ -659,6 +659,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0518-coin-change-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
@@ -920,6 +921,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
@@ -1126,6 +1128,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0238-product-of-array-except-self](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
