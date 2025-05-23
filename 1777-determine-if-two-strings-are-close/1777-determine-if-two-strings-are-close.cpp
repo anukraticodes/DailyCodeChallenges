@@ -1,25 +1,22 @@
 class Solution {
 public:
     bool closeStrings(string w1, string w2) {
+        if(w1.size()!=w2.size()) return 0;
         set<char> charw1, charw2;
         vector<int> freqw1(26, 0), freqw2(26, 0);
-        for(auto c:w1){
-            charw1.insert(c);
-            freqw1[c-'a']++;
-        }
-        for(auto c:w2){
-            charw2.insert(c);
-            freqw2[c-'a']++;
+        for(int i=0; i<w1.size(); i++){
+            charw1.insert(w1[i]);
+            freqw1[w1[i]-'a']++;
+            charw2.insert(w2[i]);
+            freqw2[w2[i]-'a']++;
         }
         map<int, int> st1, st2;
-        for(auto n:freqw1){
-            if(n!=0){
-                st1[n]++;
+        for(int i=0; i<26; i++){
+            if(freqw1[i]!=0){
+                st1[freqw1[i]]++;
             }
-        }
-        for(auto n:freqw2){
-            if(n!=0){
-                st2[n]++;
+            if(freqw2[i]!=0){
+                st2[freqw2[i]]++;
             }
         }
         return charw1==charw2 && st1==st2;
