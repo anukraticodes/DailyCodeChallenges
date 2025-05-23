@@ -9,11 +9,12 @@ public:
         for(int i=0; i<k; i++) if(isVowel(s[i])) cnt++;
         ans=max(ans, cnt);
         // int l=0, r=k;
-        int l = 0;
-        for(int r = k; r < s.size(); r++) {
+        int l = 0, r=k;
+        while(r < s.size()) {
             if(isVowel(s[r])) cnt++;   
             if(isVowel(s[l])) cnt--;     
             l++;
+            r++;
             ans = max(ans, cnt);
         }
         return ans;
