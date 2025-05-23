@@ -305,6 +305,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0038-count-and-say](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
@@ -500,6 +501,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
@@ -632,6 +634,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
@@ -896,6 +899,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0063-unique-paths-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
@@ -1265,6 +1269,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0022-generate-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
