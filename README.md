@@ -669,6 +669,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0792-binary-search) |
@@ -1143,6 +1144,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
