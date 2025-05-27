@@ -426,6 +426,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -538,6 +539,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -579,6 +581,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1876-map-of-highest-peak) |
