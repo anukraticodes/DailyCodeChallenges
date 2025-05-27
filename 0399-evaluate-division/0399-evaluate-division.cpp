@@ -12,14 +12,14 @@ public:
             if(idx.find(v) == idx.end()){
                 idx[v] = n++ ; 
             }
-        }
+        }// this loop gives each string unique index
         vector<vector<double>> mat(n , vector<double>(n,-1));  
         for(int i=0 ; i<equations.size() ; i++){
                 string u = equations[i][0] ; 
                 string v = equations[i][1] ;
                 mat[idx[u]][idx[v]] = values[i] ; 
                 mat[idx[v]][idx[u]] = 1.0/values[i] ; 
-        }
+        }// this loop initializes known values in matrix
         for(int i=0 ; i<n ; i++){
             mat[i][i] = 1 ; 
         }
@@ -33,7 +33,7 @@ public:
                     }
                 }
             }
-        }
+        }// finds route from i->j via k
         vector<double> ans ; 
         for(int i=0 ; i<queries.size() ; i++){
             string u = queries[i][0] ;
@@ -47,7 +47,7 @@ public:
             else{
                 ans.push_back(mat[idx[u]][idx[v]]) ; 
             }
-        }
+        }//populates ans array
         return ans ; 
     }
 };
