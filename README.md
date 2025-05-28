@@ -358,6 +358,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2300-construct-string-with-repeat-limit) |
+| [2470-removing-stars-from-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2470-removing-stars-from-a-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2727-number-of-senior-citizens) |
@@ -842,6 +843,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2227-sum-of-subarray-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2227-sum-of-subarray-ranges) |
+| [2470-removing-stars-from-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1109,6 +1111,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2271-rearrange-array-elements-by-sign](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
