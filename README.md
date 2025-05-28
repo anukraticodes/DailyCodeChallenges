@@ -390,6 +390,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0797-rabbits-in-forest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1033-broken-calculator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1502-construct-k-palindrome-strings) |
@@ -1128,6 +1129,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0670-maximum-swap](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
+| [1033-broken-calculator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
