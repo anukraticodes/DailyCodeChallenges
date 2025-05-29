@@ -1106,6 +1106,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0328-odd-even-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2299-merge-nodes-in-between-zeros) |
