@@ -322,6 +322,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0516-longest-palindromic-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0768-partition-labels) |
@@ -386,6 +387,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0649-dota2-senate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0768-partition-labels) |
@@ -1181,6 +1183,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2527-count-subarrays-with-fixed-bounds) |
