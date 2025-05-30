@@ -11,22 +11,20 @@
  */
 class Solution {
 public:
-    
-    void helper(TreeNode* root, string& s){
-        if(!root->left && !root->right){
-            s+=to_string(root->val);
-            s+="-";
+     void collectLeaves(TreeNode* node, vector<int>& leaves) {
+        // if (!node) return;
+        if (!node->left && !node->right) {
+            leaves.push_back(node->val);
             return;
         }
-        if(root->left) helper(root->left, s);
-        if(root->right) helper(root->right, s);
+        if(node->left) collectLeaves(node->left, leaves);
+        if(node->right) collectLeaves(node->right, leaves);
     }
 
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        if(!root1 && !root2) return 1;
-        string s1="", s2="";
-        helper(root1, s1);
-        helper(root2, s2);
-        return s1==s2;
+        vector<int> leaves1, leaves2;
+        collectLeaves(root1, leaves1);
+        collectLeaves(root2, leaves2);
+        return leaves1 == leaves2;
     }
 };
