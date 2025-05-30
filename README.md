@@ -719,6 +719,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0967-minimum-falling-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1022-unique-paths-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
@@ -944,6 +945,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0967-minimum-falling-path-sum) |
+| [1022-unique-paths-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1327,6 +1329,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1022-unique-paths-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1022-unique-paths-iii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1405,6 +1408,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0078-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1022-unique-paths-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1022-unique-paths-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
