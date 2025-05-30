@@ -32,7 +32,6 @@ public:
     }
 
     int nearestExit(vector<vector<char>>& maze, vector<int>& e) {
-        bool flag=0;
         helper(maze, e[0], e[1], maze.size(), maze[0].size());
         return ans==INT_MAX?-1:ans;
     }
