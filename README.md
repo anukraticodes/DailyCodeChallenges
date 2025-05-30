@@ -546,6 +546,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1300-critical-connections-in-a-network](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -593,6 +594,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1073-number-of-enclaves) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1275,6 +1277,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0904-leaf-similar-trees](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -1317,6 +1320,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0904-leaf-similar-trees](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
