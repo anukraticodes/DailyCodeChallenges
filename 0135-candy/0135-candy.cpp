@@ -1,32 +1,16 @@
 class Solution {
 public:
     int candy(vector<int>& r) {
-        // int cnt=r.size();
-        if(r.size()==1) return 1;
-        multiset<pair<int, int>> st;
-        for(int i=0; i<r.size(); i++){
-        st.insert({r[i], i});
+        vector<int> left(r.size(), 1), right(r.size(), 1);
+
+        for(int i=1; i<r.size(); i++){
+            if(r[i]>r[i-1]) left[i]=1+left[i-1];
         }
-        vector<int> v(r.size(), 1);
-        auto it=st.begin();
-        it++;
-        for(; it!=st.end(); it++){
-            
-            if(it->second==0){
-                if(r[0]>r[1]) v[0]=1+v[1];
-            }
-            else if(it->second==r.size()-1){
-                if(r[r.size()-1]>r[r.size()-2]) v[r.size()-1]=1+v[r.size()-2];
-            }
-            else{
-                int i=it->second;
-                if(r[i]>r[i-1] && r[i]>r[i+1])
-                v[i]=1+max(v[i-1], v[i+1]);
-                else if(r[i]>r[i+1]) v[i]=1+v[i+1];
-                else if(r[i]>r[i-1]) v[i]=1+v[i-1];
-            }
+        for(int i=r.size()-2; i>=0; i--){
+            if(r[i]>r[i+1]) right[i]=1+right[i+1];
         }
-        int sum=accumulate(v.begin(), v.end(), 0);
+        int sum=0;
+        for(int i=0; i<r.size(); i++) sum+=max(left[i], right[i]);
         return sum;
     }
 };
