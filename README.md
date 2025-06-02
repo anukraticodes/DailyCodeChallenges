@@ -506,6 +506,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2300-construct-string-with-repeat-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2379-maximum-total-importance-of-roads) |
+| [2413-smallest-number-in-infinite-set](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2434-design-a-number-container-system) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1035,6 +1036,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2413-smallest-number-in-infinite-set](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2448-count-number-of-bad-pairs) |
@@ -1304,6 +1306,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2413-smallest-number-in-infinite-set](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
@@ -1415,6 +1418,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2434-design-a-number-container-system) |
 ## Memoization
 |  |
