@@ -390,6 +390,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0670-maximum-swap) |
@@ -463,6 +464,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0406-queue-reconstruction-by-height](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
@@ -500,6 +502,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -716,6 +719,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1006,6 +1010,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0768-partition-labels) |
@@ -1261,6 +1266,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0229-majority-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1364-tuple-with-same-product) |
