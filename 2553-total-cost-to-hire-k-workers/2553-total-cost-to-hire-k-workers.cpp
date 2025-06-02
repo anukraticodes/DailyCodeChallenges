@@ -5,14 +5,13 @@ public:
         int a=0;
         int j=costs.size()-1;
         long long ans=0;
-        set<int> used;
         
         while(pq1.size()< c && a <= j) {
-            if(!used.count(a)) pq1.push({costs[a], a});
+            pq1.push({costs[a], a});
             a++;
         }
         while(pq2.size() < c && j >= a){
-            if(used.find(j)==used.end()) pq2.push({costs[j], j});
+            pq2.push({costs[j], j});
             j--;
         }
         while(k--){
