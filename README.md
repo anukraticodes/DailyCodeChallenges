@@ -401,6 +401,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1033-broken-calculator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1033-broken-calculator) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1304-longest-happy-string) |
+| [1499-maximum-performance-of-a-team](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1499-maximum-performance-of-a-team) |
 | [1502-construct-k-palindrome-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1880-largest-merge-of-two-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1880-largest-merge-of-two-strings) |
@@ -466,6 +467,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1256-rank-transform-of-an-array) |
+| [1499-maximum-performance-of-a-team](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1499-maximum-performance-of-a-team) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -503,6 +505,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0803-cheapest-flights-within-k-stops](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1304-longest-happy-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1499-maximum-performance-of-a-team](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1499-maximum-performance-of-a-team) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -755,6 +758,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1499-maximum-performance-of-a-team](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1499-maximum-performance-of-a-team) |
 | [1524-string-matching-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
