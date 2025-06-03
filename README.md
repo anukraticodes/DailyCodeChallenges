@@ -436,6 +436,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0871-keys-and-rooms](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0871-keys-and-rooms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1300-critical-connections-in-a-network) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -613,6 +614,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -763,6 +765,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1396-count-servers-that-communicate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1499-maximum-performance-of-a-team](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1499-maximum-performance-of-a-team) |
 | [1524-string-matching-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1524-string-matching-in-an-array) |
