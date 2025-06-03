@@ -389,6 +389,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0135-candy](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0621-task-scheduler) |
@@ -464,6 +465,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0368-largest-divisible-subset) |
 | [0406-queue-reconstruction-by-height](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0621-task-scheduler) |
@@ -715,6 +717,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0494-target-sum) |
@@ -931,6 +934,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0518-coin-change-ii) |
