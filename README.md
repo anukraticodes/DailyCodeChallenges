@@ -551,6 +551,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1526,6 +1527,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
