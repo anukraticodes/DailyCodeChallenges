@@ -13,9 +13,8 @@ public:
             else if(c=='o') status^=(1<<3);
             else if(c=='u') status^=(1<<4);
 
-            if(mp.count(status)){
+            if(mp.count(status))
                 ans=max(ans, i-mp[status]);
-            }
             else mp[status]=i;
         }
         return ans==INT_MIN?0:ans;
