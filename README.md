@@ -511,6 +511,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -886,6 +887,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1113,6 +1115,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3455-minimum-length-of-string-after-operations) |
