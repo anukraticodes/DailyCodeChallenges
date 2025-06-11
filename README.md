@@ -812,6 +812,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1694-make-sum-divisible-by-p](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1833-find-the-highest-altitude) |
@@ -1085,6 +1086,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1694-make-sum-divisible-by-p](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1143,6 +1145,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -1184,6 +1187,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -1302,6 +1306,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1694-make-sum-divisible-by-p) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1940-maximum-xor-for-each-query) |
