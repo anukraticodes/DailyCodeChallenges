@@ -834,6 +834,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
