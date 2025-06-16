@@ -1,16 +1,15 @@
 class Solution {
 public:
     int maximumDifference(vector<int>& nums) {
-        stack<int> st;
+        int x=nums[0];
         int ans=-1;
-        st.push(nums[0]);
+      
         for(int i=1; i<nums.size(); i++){
-           if(st.top()>=nums[i]){
-            st.pop();
-            st.push(nums[i]);
+           if(x>=nums[i]){
+            x=nums[i];
            }
            else{
-            ans=max(ans, nums[i]-st.top());
+            ans=max(ans, nums[i]-x);
            }
         }
         return ans;
