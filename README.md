@@ -437,6 +437,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
@@ -516,6 +517,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -896,6 +898,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
