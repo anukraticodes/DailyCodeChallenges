@@ -9,6 +9,7 @@ public:
             }
             ans.push_back({nums[i], nums[i + 1], nums[i + 2]});
         }
+        
         return ans;
     }
 };
