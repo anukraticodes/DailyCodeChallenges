@@ -390,6 +390,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3637-count-number-of-balanced-permutations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
@@ -1141,6 +1142,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1291,6 +1293,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Recursion
 |  |
 | ------- |
@@ -1366,6 +1369,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3455-minimum-length-of-string-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Strongly Connected Component
 |  |
 | ------- |
