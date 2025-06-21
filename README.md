@@ -384,6 +384,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -441,6 +442,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3195-separate-black-and-white-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Graph
 |  |
 | ------- |
@@ -522,6 +524,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
@@ -1134,6 +1137,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3548-find-the-count-of-good-integers) |
@@ -1366,6 +1370,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2448-count-number-of-bad-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
