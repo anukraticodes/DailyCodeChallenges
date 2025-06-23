@@ -10,8 +10,6 @@ public:
                 while(!q.empty()){
                     int node=q.front().first;
                     bool clr=q.front().second;
-                    color[node]=clr;
-                    vis[node]=1;
                     q.pop();
                     for(auto it:graph[node]){
                         if(vis[it] && color[it]==clr) return 0;
