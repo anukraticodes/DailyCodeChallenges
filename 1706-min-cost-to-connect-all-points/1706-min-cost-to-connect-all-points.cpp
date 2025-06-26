@@ -30,20 +30,20 @@ public:
 
     int minCostConnectPoints(vector<vector<int>>& points) {
         if(points.size()==0) return 0;
-        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>, greater<tuple<int, int, int>>> pq;
+        set<tuple<int, int, int>> st;
         for(int i=0; i<points.size()-1; i++){
             int x=points[i][0], y=points[i][1];
             for(int j=i+1; j<points.size(); j++){
                 int x1=points[j][0], y1=points[j][1];
                 int dist=abs(x-x1)+abs(y-y1);
-                pq.push({dist, i, j});
+                st.insert({dist, i, j});
             }
         }
         int sum=0;
         createDsu(points.size());
-        while(!pq.empty()){
-            auto[wt, u, v]=pq.top();
-            pq.pop();
+        while(!st.empty()){
+            auto[wt, u, v]=*st.begin();
+            st.erase(*st.begin());
             if(findParent(u)!=findParent(v)){
                 unionDsu(u, v);
                 sum+=wt;
