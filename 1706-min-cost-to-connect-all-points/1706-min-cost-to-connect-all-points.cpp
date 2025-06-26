@@ -30,16 +30,17 @@ public:
 
     int minCostConnectPoints(vector<vector<int>>& points) {
         if(points.size()==0) return 0;
-        set<tuple<int, int, int>> st;
+        vector<tuple<int, int, int>> v;
         for(int i=0; i<points.size()-1; i++){
             int x=points[i][0], y=points[i][1];
             for(int j=i+1; j<points.size(); j++){
                 int x1=points[j][0], y1=points[j][1];
                 int dist=abs(x-x1)+abs(y-y1);
-                st.insert({dist, i, j});
+                v.push_back({dist, i, j});
             }
         }
         int sum=0;
+        set<tuple<int, int, int>> st(v.begin(), v.end());
         createDsu(points.size());
         while(!st.empty()){
             auto[wt, u, v]=*st.begin();
