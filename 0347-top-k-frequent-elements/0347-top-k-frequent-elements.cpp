@@ -9,7 +9,7 @@ public:
             pq.push({freq,element});
         }
         vector<int> ans;
-       for(int i=0; i<k; i++){
+       while(k--){
             int element=pq.top().second;
             ans.push_back(element);
             pq.pop();
