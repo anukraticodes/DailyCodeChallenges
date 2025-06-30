@@ -504,6 +504,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0941-sort-array-by-parity) |
+| [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1256-rank-transform-of-an-array) |
 | [1397-search-suggestions-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1397-search-suggestions-system) |
 | [1499-maximum-performance-of-a-team](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1499-maximum-performance-of-a-team) |
@@ -549,6 +550,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0744-network-delay-time](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1397-search-suggestions-system) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -803,6 +805,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1002-maximum-width-ramp) |
+| [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1295,6 +1298,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0670-maximum-swap](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
+| [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
 | [1033-broken-calculator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1236-n-th-tribonacci-number) |
@@ -1537,6 +1541,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -1661,6 +1666,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1685,4 +1691,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1706-min-cost-to-connect-all-points) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
