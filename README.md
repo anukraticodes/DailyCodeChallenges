@@ -581,6 +581,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
@@ -956,6 +957,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0739-daily-temperatures) |
@@ -1422,6 +1424,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
@@ -1472,6 +1475,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
