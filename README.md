@@ -475,6 +475,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1493-frog-position-after-t-seconds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1493-frog-position-after-t-seconds) |
 | [1558-course-schedule-iv](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -627,6 +628,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -679,6 +681,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1493-frog-position-after-t-seconds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -1469,6 +1472,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
