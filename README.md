@@ -1131,6 +1131,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
@@ -1332,6 +1333,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0368-largest-divisible-subset) |
+| [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0797-rabbits-in-forest) |
@@ -1753,4 +1755,12 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
