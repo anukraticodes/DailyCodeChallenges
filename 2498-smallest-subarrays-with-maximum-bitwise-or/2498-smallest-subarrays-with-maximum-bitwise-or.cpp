@@ -8,9 +8,7 @@ public:
             int j=i;
             for(int bit=0; bit<31; bit++){
                 if (!(nums[i] & (1 << bit))) {
-                    if (pos[bit] != -1) {
                         j = max(j, pos[bit]);
-                    }
                 } 
                 else
                     pos[bit]=i;
