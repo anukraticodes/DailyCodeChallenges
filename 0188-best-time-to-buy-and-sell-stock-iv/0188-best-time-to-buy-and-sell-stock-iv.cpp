@@ -1,22 +1,23 @@
 class Solution {
 public:
-
-    int helper(vector<vector<vector<int>>>& dp, vector<int>& p, int cap, int ind, bool buy){
-        if(ind==p.size()||cap==0) return 0;
-        if(dp[ind][buy][cap]!=-1) return dp[ind][buy][cap];
-        int profit=0;
-        if(buy==0){
-            profit=max(helper(dp, p, cap, ind+1, buy), -p[ind]+helper(dp, p, cap, ind+1, 1));
-        }
-        else{
-            profit=max(helper(dp, p, cap, ind+1, buy), p[ind]+helper(dp, p, cap-1, ind+1, 0));
-        }
-        return dp[ind][buy][cap]=profit;
-    }
-
     int maxProfit(int k, vector<int>& p) {
         int n=p.size();
-        vector<vector<vector<int>>> dp(n, vector<vector<int>>(2, vector<int>(k+1, -1)));
-        return helper(dp, p, k, 0, 0);
+        vector<vector<vector<int>>> dp(n+1, vector<vector<int>>(2, vector<int>(k+1, 0)));
+        long profit=0;
+        for(int i=n-1; i>=0; i--){
+            for(int buy=0; buy<=1; buy++){
+                for(int cap=1; cap<=k; cap++){
+                    if(buy==0){
+                        profit=max(dp[i+1][buy][cap], -p[i]+dp[i+1][1][cap]);
+                    }
+                    else{
+                        profit=max(dp[i+1][buy][cap], p[i]+dp[i+1][0][cap-1]);
+                    }
+                    dp[i][buy][cap]=profit;
+                }
+            }
+            
+        }
+        return dp[0][0][k];
     }
 };
