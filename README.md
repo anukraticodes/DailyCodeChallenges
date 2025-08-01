@@ -782,6 +782,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
@@ -1041,6 +1042,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0198-house-robber](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
@@ -1272,6 +1274,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0162-find-peak-element](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
