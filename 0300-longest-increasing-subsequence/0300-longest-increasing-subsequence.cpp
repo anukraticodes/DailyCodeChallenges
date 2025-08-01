@@ -1,19 +1,28 @@
 class Solution {
 public:
 
-    int helper(vector<vector<int>>& dp, vector<int>& nums, int ind, int prev){
-        if(ind==nums.size()) return 0;
-        if(dp[ind][prev+1]!=-1) return dp[ind][prev+1];
-        int take, nottake;
-        nottake=helper(dp, nums, ind+1, prev);
-        if(prev==-1 || nums[ind]>nums[prev]) take=1+helper(dp, nums, ind+1, ind);
-        
-        return dp[ind][prev+1]=max(take, nottake);
+   int bs(vector<int>& res, int num){
+    int left=0, right=res.size()-1;
+    while(left<=right){
+        int mid=(left+right)/2;
+        if(res[mid]==num) return mid;
+        if(res[mid]>num) right=mid-1;
+        else left=mid+1;
     }
+    return left;
+   }
 
     int lengthOfLIS(vector<int>& nums) {
-        int n=nums.size();
-        vector<vector<int>> dp(n, vector<int>(n+1, -1));
-        return helper(dp, nums, 0, -1);
+        vector<int> res;
+        for(int n:nums){
+            if(res.empty() || res.back()<n){
+                res.push_back(n);
+            }
+            else{
+                int ind=bs(res, n);
+                res[ind]=n;
+            }
+        }
+        return res.size();
     }
 };
