@@ -24,7 +24,7 @@ public:
         });
         int n=words.size();
         vector<int> dp(words.size(), 1);
-        for(int i=0; i<n; i++){
+        for(int i=1; i<n; i++){
            for(int prev=0; prev<i; prev++){
             if(helper(words[prev],words[i]) && 1+dp[prev]>dp[i]){
                 dp[i]=1+dp[prev];
@@ -32,6 +32,5 @@ public:
            }
         }
         return *max_element(dp.begin(), dp.end());
-
     }
 };
