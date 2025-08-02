@@ -1,33 +1,42 @@
 class Solution {
 public:
-    vector<int> largestDivisibleSubset(vector<int>& nums) {
-        if (nums.empty()) return {};
-        sort(nums.begin(), nums.end());
+    vector<int> largestDivisibleSubset(vector<int>& arr) {
+         int n = arr.size();
+    sort(arr.begin(), arr.end());
 
-        int n = nums.size();
-        vector<int> dp(n, 1); // dp[i] stores the size of the largest subset ending at i
-        vector<int> prev(n, -1); // prev[i] stores the index of the previous element in the subset
-        int maxSize = 1, maxIndex = 0;
+    vector<int> dp(n, 1); 
+    vector<int> hash(n); 
 
-        for (int i = 1; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (nums[i] % nums[j] == 0 && dp[j] + 1 > dp[i]) {
-                    dp[i] = dp[j] + 1;
-                    prev[i] = j;
-                }
-            }
-            if (dp[i] > maxSize) {
-                maxSize = dp[i];
-                maxIndex = i;
+    for (int i = 0; i < n; i++) {
+        hash[i] = i; 
+        for (int prev_index = 0; prev_index < i; prev_index++) {
+            if (arr[i] % arr[prev_index] == 0 && 1 + dp[prev_index] > dp[i]) {
+                dp[i] = 1 + dp[prev_index];
+                hash[i] = prev_index;
             }
         }
-
-        vector<int> result;
-        for (int i = maxIndex; i >= 0; i = prev[i]) {
-            result.push_back(nums[i]);
-            if (prev[i] == -1) break;
-        }
-        reverse(result.begin(), result.end());
-        return result;
     }
+
+    int ans = -1;
+    int lastIndex = -1;
+
+    for (int i = 0; i < n; i++) {
+        if (dp[i] > ans) {
+            ans = dp[i];
+            lastIndex = i;
+        }
+    }
+
+    vector<int> temp;
+    temp.push_back(arr[lastIndex]);
+
+    while (hash[lastIndex] != lastIndex) {
+        lastIndex = hash[lastIndex];
+        temp.push_back(arr[lastIndex]);
+    }
+    reverse(temp.begin(), temp.end());
+
+    return temp;
+}
+    
 };
