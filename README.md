@@ -793,6 +793,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0300-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
@@ -1057,6 +1058,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0338-counting-bits) |
