@@ -6,7 +6,7 @@ public:
         multiset<int> st;
         for(auto it:mp) st.insert(it.second);
         auto it=st.begin();
-        while(k>0 && it!=st.end()){
+        while(k>0 && it!=st.end()){ 
           it=st.begin();
           if(*it<=k){
             k-=*it;
