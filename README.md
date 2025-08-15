@@ -1373,6 +1373,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0231-power-of-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0368-largest-divisible-subset) |
 | [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -1421,6 +1422,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0231-power-of-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1697,6 +1699,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1022-unique-paths-iii) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
