@@ -18,7 +18,7 @@ public:
 
     int numberOfPairs(vector<vector<int>>& p) {
         int cnt=0;
-        // sort(p.begin(), p.end());
+        sort(p.begin(), p.end());
         for(int i=0; i<p.size(); i++){
             for(int j=i+1; j<p.size(); j++){
                 if(upperLeft(i, j, p)){
