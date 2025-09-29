@@ -1,18 +1,26 @@
 class Solution {
 public:
-    int minScoreTriangulation(vector<int>& v) {
-        int n=v.size();
-        vector<vector<int>> dp(n, vector<int>(n, 0));
-        for(int gap=2; gap<n; gap++){
-            for(int i=0; i+gap<n; i++){
-                int j=i+gap;
-                int ans=INT_MAX;
-                for(int k=i+1; k<j; k++){
-                    ans=min(ans, v[i]*v[j]*v[k]+dp[i][k]+dp[k][j]);
-                }
-                dp[i][j]=ans;
-            }
+
+   int helper(int i, int j, unordered_map<int, int>& dp, vector<int>& v){
+    int n=v.size();
+    if(i+2>j) return 0;
+    if(i+j==2){
+        return v[i]*v[j]*v[i+1];
+    }
+    int key=i*n+j;
+    if(!dp.count(key)){
+        int minans=INT_MAX;
+        for(int k=i+1; k<j; k++){
+            minans=min(minans, v[i]*v[j]*v[k]+helper(i, k, dp, v)+helper(k,j, dp, v));
         }
-        return dp[0][n-1];
+        dp[key]=minans;
+    }
+    return dp[key];
+   }
+
+    int minScoreTriangulation(vector<int>& v) {
+        unordered_map<int, int> dp;
+        int n=v.size();
+        return helper(0, n-1, dp, v);
     }
 };
