@@ -1,77 +1,72 @@
-const int di[4] = {1, -1, 0, 0};
-const int dj[4] = {0, 0, 1, -1};
+class Cell{
+    public:
+    int height, row, col;
+    Cell(int h, int r, int c){
+        height=h;
+        row=r;
+        col=c;
+    }
+
+    bool operator<(const Cell& other) const{
+        return height>other.height;
+    }
+};
+
+bool isValid(int r, int c, int nr, int nc){
+    return r>=0 && c>=0 && r<nr && c<nc;
+}
+
+
 class Solution {
 public:
-    static unsigned pack(unsigned h, unsigned i, unsigned j) {
-        return (h << 16) | (i << 8) | j;
-    }
+    int trapRainWater(vector<vector<int>>& heightMap) {
+        int drow[4]={0,0,-1,1};
+        int dcol[4]={-1,1,0,0};
 
-    static array<int, 3> unpack(unsigned info) {
-        array<int, 3> ans;
-        ans[0] = info >> 16, ans[1] = (info >> 8) & 255, ans[2] = info & 255;
-        return ans;
-    }
+        int nr=heightMap.size();
+        int nc=heightMap[0].size();
 
-    static int trapRainWater(vector<vector<int>>& height) {
-        const int m = height.size(), n = height[0].size();
-        if (m <= 2 || n <= 2)
-            return 0; // No trapped water possible
+        vector<vector<bool>> vis(nr, vector<bool>(nc, 0));
+        priority_queue<Cell> q;
 
-        vector<unsigned> boundary(2 * (m + n - 1));
-
-        // Add boundary cells  mark  visited
-        int idx = 0;
-        for (int i = 0; i < m; i++) {
-            boundary[idx++] = pack(height[i][0], i, 0);
-            boundary[idx++] = pack(height[i][n - 1], i, n - 1);
-            height[i][0] = height[i][n - 1] = -1; // visited
+        for(int i=0; i<nr; i++){
+            q.push(Cell(heightMap[i][0], i, 0));
+            q.push(Cell(heightMap[i][nc-1], i, nc-1));
+            vis[i][0]=1;
+            vis[i][nc-1]=1;
         }
-
-        for (int j = 1; j < n - 1; j++) {
-            boundary[idx++] = pack(height[0][j], 0, j);
-            boundary[idx++]=pack(height[m - 1][j], m - 1, j);
-            height[0][j] = height[m - 1][j] = -1; // visited
+        
+        for(int i=0; i<nc; i++){
+            q.push(Cell(heightMap[0][i], 0, i));
+            q.push(Cell(heightMap[nr-1][i], nr-1, i));
+            vis[0][i]=1;
+            vis[nr-1][i]=1;
         }
+        
+        int ans=0;
 
-        // Build a min-heap
-        make_heap(boundary.begin(), boundary.end(), greater<>());
+        while(!q.empty()){
+            Cell curr=q.top();
+            q.pop();
 
-        int ans = 0, water_level = 0;
+            int cr=curr.row;
+            int cc=curr.col;
+            int ch=curr.height;
 
-        while (!boundary.empty()) {
-            // Extract the smallest element from the heap
-            pop_heap(boundary.begin(), boundary.end(), greater<>());
-            unsigned info = boundary.back();
-            boundary.pop_back();
+            for(int d=0; d<4; d++){
+                int neighborr=cr+drow[d];
+                int neighborc=cc+dcol[d];
 
-            auto [h, i, j] = unpack(info);
-            water_level = max(water_level, h);
+                if(isValid(neighborr, neighborc, nr, nc)&&!vis[neighborr][neighborc]){
+                    int neighborh=heightMap[neighborr][neighborc];
+                    if(neighborh<ch) ans+=ch-neighborh;
 
-            // Process adjacent cell
-            for (int k = 0; k < 4; k++) {
-                int i0 = i + di[k], j0 = j + dj[k];
-                if (i0 < 0 || i0 >= m || j0 < 0 || j0 >= n ||
-                    height[i0][j0] == -1)
-                    continue;
-
-                int currH = height[i0][j0];
-                if (currH < water_level)
-                    ans += water_level - currH;
-
-                // Mark the cell as visited and push it to the heap
-                height[i0][j0] = -1;
-                boundary.push_back(pack(currH, i0, j0));
-                push_heap(boundary.begin(), boundary.end(), greater<>());
+                    q.push(Cell(max(neighborh, ch), neighborr, neighborc));
+                    vis[neighborr][neighborc]=1;
+                }
             }
         }
-
         return ans;
     }
 };
 
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
