@@ -268,6 +268,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -763,6 +764,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0057-insert-interval) |
@@ -1008,6 +1010,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0094-binary-tree-inorder-traversal) |
@@ -1034,6 +1037,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0739-daily-temperatures) |
@@ -1049,6 +1053,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0064-minimum-path-sum) |
