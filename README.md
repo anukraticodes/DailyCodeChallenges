@@ -884,6 +884,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1499-maximum-performance-of-a-team](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1499-maximum-performance-of-a-team) |
@@ -1158,6 +1159,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1073-number-of-enclaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1396-count-servers-that-communicate) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
@@ -1338,6 +1340,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
 | [1397-search-suggestions-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1646-kth-missing-positive-number) |
