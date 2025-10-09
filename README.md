@@ -341,6 +341,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0889-buddy-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1023-time-based-key-value-store](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1129-longest-string-chain](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1129-longest-string-chain) |
@@ -1213,6 +1214,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1023-time-based-key-value-store](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1129-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1339,6 +1341,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0792-binary-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
@@ -1591,6 +1594,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0969-number-of-recent-calls) |
+| [1023-time-based-key-value-store](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2413-smallest-number-in-infinite-set) |
