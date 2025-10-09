@@ -2,7 +2,8 @@ class Solution {
 public:
     vector<int> findRightInterval(vector<vector<int>>& intervals) {
        vector<int> temp;
-       for(int i=0; i<intervals.size(); i++) temp.push_back(intervals[i][0]);
+       unordered_map<int, int> mp;
+       for(int i=0; i<intervals.size(); i++) {temp.push_back(intervals[i][0]); mp[intervals[i][0]]=i;}
         if(intervals.size()<1) return {-1};
         sort(temp.begin(), temp.end());
         vector<int> ans;
@@ -11,7 +12,7 @@ public:
             
             int t=helper(temp, intervals[i][1], outlier);
             if(t==outlier){ans.push_back(-1); continue;}
-            ans.push_back(ind(t, intervals));
+            ans.push_back(mp[t]);
         }
         return ans;
     }
