@@ -1024,6 +1024,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -1142,6 +1143,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3618-find-the-original-typed-string-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3637-count-number-of-balanced-permutations) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Matrix
 |  |
 | ------- |
@@ -1467,6 +1469,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -1750,6 +1753,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3548-find-the-count-of-good-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1780,11 +1784,13 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
