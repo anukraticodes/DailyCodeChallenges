@@ -2,17 +2,16 @@ class Solution {
 public:
     vector<string> removeAnagrams(vector<string>& words) {
         vector<string> ans;
-        int n = words.size();
-
-        if (n == 0) return ans;
-
         ans.push_back(words[0]); 
 
-        for (int i = 1; i < n; i++) {
-            unordered_map<char, int> mp1, mp2;
-            for (auto ch : words[i]) mp2[ch]++;
-            for (auto ch : words[i - 1]) mp1[ch]++;
-            if (mp1 != mp2) {
+        for (int i = 1; i < words.size(); i++) {
+            string prev = ans.back();
+            string curr = words[i];
+            
+            sort(prev.begin(), prev.end());
+            sort(curr.begin(), curr.end());
+            
+            if (prev != curr) {
                 ans.push_back(words[i]);
             }
         }
