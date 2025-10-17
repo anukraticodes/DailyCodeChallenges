@@ -13,6 +13,7 @@ public:
             if(nums[mid]<t && nums[r]>=t) l=mid+1;
             else r=mid-1;
          }
+         
         }
         return -1;
     }
