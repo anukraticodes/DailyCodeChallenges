@@ -468,6 +468,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Graph
 |  |
@@ -569,6 +570,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
@@ -1020,6 +1022,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
