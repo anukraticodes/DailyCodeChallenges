@@ -9,6 +9,7 @@ public:
                 cnt++;
                 prev = curr;
             }
+            
         }
         return cnt;
     }
