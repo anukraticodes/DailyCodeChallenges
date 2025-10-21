@@ -571,6 +571,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3430-count-days-without-meetings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
@@ -1024,6 +1025,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -1329,6 +1331,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
@@ -1381,6 +1384,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1535,6 +1539,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
