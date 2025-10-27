@@ -365,6 +365,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1668-find-longest-awesome-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1668-find-longest-awesome-substring) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1777-determine-if-two-strings-are-close](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1777-determine-if-two-strings-are-close) |
 | [1880-largest-merge-of-two-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1894-merge-strings-alternately) |
@@ -665,6 +666,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1558-course-schedule-iv](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -719,6 +721,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1558-course-schedule-iv](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1812,6 +1815,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2174-next-greater-numerically-balanced-number) |
