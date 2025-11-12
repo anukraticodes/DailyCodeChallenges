@@ -314,6 +314,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0079-word-search) |
@@ -510,6 +511,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0229-majority-element-ii) |
@@ -784,6 +786,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0040-combination-sum-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0063-unique-paths-ii) |
@@ -1203,6 +1206,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
