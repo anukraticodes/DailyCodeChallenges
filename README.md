@@ -787,6 +787,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0049-group-anagrams) |
@@ -1211,6 +1212,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0076-minimum-window-substring) |
