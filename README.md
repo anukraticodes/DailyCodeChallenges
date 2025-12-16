@@ -680,6 +680,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2793-count-the-number-of-complete-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
@@ -1037,6 +1038,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1167,6 +1169,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3618-find-the-original-typed-string-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1641,6 +1644,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Design
 |  |
