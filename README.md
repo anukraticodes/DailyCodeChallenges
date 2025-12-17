@@ -294,6 +294,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2271-rearrange-array-elements-by-sign](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2396-strictly-palindromic-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2396-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2551-apply-operations-to-an-array) |
@@ -1490,6 +1491,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2174-next-greater-numerically-balanced-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2413-smallest-even-multiple) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2448-count-number-of-bad-pairs) |
@@ -1891,6 +1893,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Brainteaser
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2396-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Quickselect
 |  |
