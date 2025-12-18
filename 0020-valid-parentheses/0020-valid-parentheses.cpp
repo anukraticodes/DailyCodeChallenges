@@ -1,38 +1,29 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> s1;
-        for(int i=0; i<s.size(); i++){
-            if(isOpen(s[i])){
-                s1.push(s[i]);
+        stack<char> st;
+        // if(isclosing(s[0])) return 0;
+        for(auto c:s){
+            if(!isclosing(c)) st.push(c);
+            else if(st.empty() && isclosing(c)) return 0;
+            else{
+                if(!is(st.top(), c)) return 0;
+                else st.pop();
             }
-            else if(isClose(s[i])){
-                if(s1.empty()) return 0;
-                if(!isMatch(s[i], s1.top())) return 0;
-                if(!s1.empty()&&isMatch(s[i], s1.top())){
-                    s1.pop();
-                }
-            }
-    }
-    return s1.empty();
-    }
-
-    bool isOpen(char c){
-        if(c=='('||c=='{'||c=='[')
+        }
+        if(!st.empty()) return 0;
         return 1;
+    }
+
+    bool isclosing(char c){
+        if(c==')' || c=='}' || c==']') return 1;
         return 0;
     }
 
-    bool isClose(char c){
-        if(c==')'||c=='}'||c==']')
+    bool is(char c1, char c2){
+        if(c1=='(' && c2!=')') return 0;
+        if(c1=='{' && c2!='}') return 0;
+        if(c1=='[' && c2!=']') return 0;
         return 1;
-        return 0;
-    }
-
-    bool isMatch(char c, char c1){
-        if(c==')') return c1=='(';
-        if(c=='}') return c1=='{';
-        if(c==']') return c1=='[';
-        return 0;
     }
 };
