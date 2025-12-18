@@ -1063,6 +1063,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0739-daily-temperatures) |
@@ -1654,6 +1655,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
