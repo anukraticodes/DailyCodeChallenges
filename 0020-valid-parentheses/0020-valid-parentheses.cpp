@@ -2,17 +2,14 @@ class Solution {
 public:
     bool isValid(string s) {
         stack<char> st;
-        // if(isclosing(s[0])) return 0;
         for(auto c:s){
             if(!isclosing(c)) st.push(c);
-            else if(st.empty() && isclosing(c)) return 0;
+            else if(!st.empty() && is(st.top(), c)) st.pop();
             else{
-                if(!is(st.top(), c)) return 0;
-                else st.pop();
+                return 0;
             }
         }
-        if(!st.empty()) return 0;
-        return 1;
+        return st.empty();
     }
 
     bool isclosing(char c){
