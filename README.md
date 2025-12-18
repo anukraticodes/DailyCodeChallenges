@@ -313,6 +313,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0005-longest-palindromic-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0049-group-anagrams) |
@@ -1056,6 +1057,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
