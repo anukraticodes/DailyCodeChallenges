@@ -5,9 +5,7 @@ public:
         for(auto c:s){
             if(!isclosing(c)) st.push(c);
             else if(!st.empty() && is(st.top(), c)) st.pop();
-            else{
-                return 0;
-            }
+            else return 0;
         }
         return st.empty();
     }
