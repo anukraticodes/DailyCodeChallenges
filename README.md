@@ -813,6 +813,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0162-find-peak-element) |
@@ -1063,6 +1064,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
@@ -1463,6 +1465,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0062-unique-paths](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
