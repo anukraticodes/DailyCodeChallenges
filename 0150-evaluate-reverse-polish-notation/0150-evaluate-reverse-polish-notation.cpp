@@ -1,28 +1,30 @@
 class Solution {
 public:
+    bool isNumber(const string& s) {
+        try {
+            stoi(s);
+            return true;
+        } catch (...) {
+            return false;
+        }
+    }
+
     int evalRPN(vector<string>& tokens) {
         stack<int> st;
-        for(auto ch:tokens){
-            char s=ch[0];
-            if(ch.size() > 1 || isdigit(ch[0])){
-                st.push(stoi(ch));
-            }
-            else{
-                int op1=st.top();
-                st.pop();
-                int op2=st.top();
-                st.pop();
-                int ans=call(op1, op2, ch);
-                st.push(ans);
+
+        for (auto &tok : tokens) {
+            if (isNumber(tok)) {
+                st.push(stoi(tok));
+            } else {
+                int a = st.top(); st.pop();
+                int b = st.top(); st.pop();
+
+                if (tok == "+") st.push(b + a);
+                else if (tok == "-") st.push(b - a);
+                else if (tok == "*") st.push(b * a);
+                else st.push(b / a);  
             }
         }
         return st.top();
-    }
-
-    int call(int a, int b, string s){
-        if(s=="+") return a+b;
-        if(s=="-") return b-a;
-        if(s=="*") return a*b;
-        else return b/a;
     }
 };
