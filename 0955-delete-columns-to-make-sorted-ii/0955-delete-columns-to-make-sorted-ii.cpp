@@ -1,35 +1,27 @@
 class Solution {
 public:
     int minDeletionSize(vector<string>& strs) {
-        int n = strs.size();
-        int m = strs[0].size();
-
-        vector<bool> resolved(n - 1, false);
-        int unresolved = n - 1;
-        int deletions = 0;
-
-        for (int col = 0; col < m && unresolved > 0; col++) {
-            bool bad = false;
-            for (int i = 0; i < n - 1; i++) {
-                if (!resolved[i] && strs[i][col] > strs[i + 1][col]) {
-                    bad = true;
+        vector<bool> res(strs.size()-1, 0);
+        int del=0;
+        // int unr=strs.size()-1;
+        for(int col=0; col<strs[0].size(); col++){
+            bool bad=0;
+            for(int i=0; i<strs.size()-1; i++){
+                if(!res[i] && strs[i][col]>strs[i+1][col]){
+                    bad=1;
                     break;
                 }
             }
-
-            if (bad) {
-                deletions++;
-                continue;
+            if(bad){
+               del++;
+               continue;
             }
-
-            for (int i = 0; i < n - 1; i++) {
-                if (!resolved[i] && strs[i][col] < strs[i + 1][col]) {
-                    resolved[i] = true;
-                    unresolved--;
+            for(int i=0; i<strs.size()-1; i++){
+                if(!res[i] && strs[i][col]<strs[i+1][col]){
+                    res[i]=1;
                 }
             }
         }
-
-        return deletions;
+        return del;
     }
 };
