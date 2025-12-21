@@ -867,6 +867,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0747-min-cost-climbing-stairs) |
@@ -1073,6 +1074,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-car-fleet) |
@@ -1436,6 +1438,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
