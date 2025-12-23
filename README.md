@@ -861,6 +861,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0713-subarray-product-less-than-k) |
@@ -1076,6 +1077,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1440,6 +1442,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1642-water-bottles) |
