@@ -1082,6 +1082,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0739-daily-temperatures](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1002-maximum-width-ramp) |
@@ -1106,6 +1107,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0739-daily-temperatures](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1677,6 +1679,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0208-implement-trie-prefix-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1023-time-based-key-value-store) |
@@ -1729,6 +1732,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0969-number-of-recent-calls) |
 ## Backtracking
