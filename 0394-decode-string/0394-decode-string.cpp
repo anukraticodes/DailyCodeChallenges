@@ -2,31 +2,33 @@ class Solution {
 public:
     string decodeString(string s) {
         stack<string> st;
-        for(int i=0; i<s.size(); i++){
+        for(int i=0; i<s.size();i++){
             if(s[i]==']'){
-                string ans="";
+                string curr="";
                 while(st.top()!="["){
-                    ans=st.top()+ans;
+                    curr=st.top()+curr;
                     st.pop();
                 }
                 st.pop();
                 string times="";
                 while(!st.empty() && isdigit(st.top()[0])){
-                  times=st.top()+times;
-                  st.pop();
+                    times=st.top()+times;
+                    st.pop();
                 }
-                int freq=stoi(times);
-                string ret="";
-                while(freq--) ret=ans+ret;
-                st.push(ret);
+                int f=stoi(times);
+                string p="";
+                while(f--) p+=curr;
+                st.push(p);
             }
-            else st.push(string(1, s[i]));
+            else{
+                st.push(string(1, s[i]));
+            }
         }
-        string result="";
+        string ret="";
         while(!st.empty()){
-            result=st.top()+result;
+            ret=st.top()+ret;
             st.pop();
         }
-        return result;
+        return ret;
     }
 };
