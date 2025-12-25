@@ -470,6 +470,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3195-separate-black-and-white-balls) |
@@ -574,6 +575,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2728-sum-in-a-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2728-sum-in-a-matrix) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1025,6 +1027,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
