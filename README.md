@@ -984,6 +984,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2270-number-of-ways-to-split-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2270-number-of-ways-to-split-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -1594,6 +1595,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2249-count-the-hidden-sequences) |
+| [2270-number-of-ways-to-split-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2270-number-of-ways-to-split-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2483-minimum-penalty-for-a-shop) |
