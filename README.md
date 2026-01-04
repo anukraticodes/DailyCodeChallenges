@@ -921,6 +921,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1396-count-servers-that-communicate) |
 | [1397-search-suggestions-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1397-search-suggestions-system) |
@@ -1514,6 +1515,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1236-n-th-tribonacci-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1236-n-th-tribonacci-number) |
 | [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
