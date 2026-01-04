@@ -24,6 +24,7 @@ public:
                 div.insert(i);
                 div.insert(a/i);
             }
+            if(div.size()>4)break;
         }
     }
 };
