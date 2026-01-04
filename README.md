@@ -514,6 +514,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2793-count-the-number-of-complete-components](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2793-count-the-number-of-complete-components) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -750,6 +751,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2793-count-the-number-of-complete-components) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Topological Sort
 |  |
@@ -1615,6 +1617,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2483-minimum-penalty-for-a-shop](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3616-make-array-elements-equal-to-zero) |
