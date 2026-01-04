@@ -1,43 +1,34 @@
 class Solution {
 public:
     vector<int> findSubstring(string s, vector<string>& words) {
-        map<string, int> mp;
-        for(auto it:words){
-            mp[it]++;
-        }
+        unordered_map<string, int> mp;
+        for(auto it:words) mp[it]++;
+        int x=words[0].size();
+        int tot=words.size();
         vector<int> ans;
-        int len = words[0].size();
-int total = words.size();
-
-for(int start = 0; start < len; start++){
-    int left = start, count = 0;
-    unordered_map<string,int> seen;
-
-    for(int right = start; right + len <= s.size(); right += len){
-        string word = s.substr(right, len);
-
-        if(mp.count(word)){
-            seen[word]++;
-            count++;
-
-            while(seen[word] > mp[word]){
-                string leftWord = s.substr(left, len);
-                seen[leftWord]--;
-                left += len;
-                count--;
+        for(int i=0; i<x; i++){
+            int l=i, cnt=0;
+            unordered_map<string, int> mp2;
+            for(int r=i; r+x<=s.size(); r+=x){
+                string curr=s.substr(r, x);
+                if(mp.count(curr)){
+                mp2[curr]++;
+                cnt++;
+                while(mp2[curr]>mp[curr]){
+                    string lw=s.substr(l,x);
+                    mp2[lw]--;
+                    cnt--;
+                    l+=x;
+                }
+                if(cnt==tot) ans.push_back(l);
+                }
+                else{
+                    cnt=0;
+                    l=r+x;
+                    mp2.clear();
+                }
             }
-
-            if(count == total){
-                ans.push_back(left);
-            }
-        } else {
-            seen.clear();
-            count = 0;
-            left = right + len;
         }
-    }
-}
-
         return ans;
     }
 };
