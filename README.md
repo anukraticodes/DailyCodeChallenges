@@ -455,6 +455,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1880-largest-merge-of-two-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1975-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -969,6 +970,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1927-maximum-ascending-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1975-maximum-matrix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -1240,6 +1242,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1876-map-of-highest-peak) |
+| [1975-maximum-matrix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
