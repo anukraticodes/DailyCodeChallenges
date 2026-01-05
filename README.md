@@ -1063,6 +1063,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3477-fruits-into-baskets-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -1450,6 +1451,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3477-fruits-into-baskets-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3477-fruits-into-baskets-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Linked List
 |  |
@@ -1490,6 +1492,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3336-water-bottles-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3447-clear-digits) |
+| [3477-fruits-into-baskets-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3477-fruits-into-baskets-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1826,6 +1829,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3477-fruits-into-baskets-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3477-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1840,6 +1844,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2434-design-a-number-container-system) |
+| [3477-fruits-into-baskets-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3477-fruits-into-baskets-ii) |
 ## Memoization
 |  |
 | ------- |
