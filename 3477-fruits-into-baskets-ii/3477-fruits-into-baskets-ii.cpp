@@ -1,12 +1,12 @@
 class Solution {
 public:
- class Segtree{
-    public:
+
+struct SegTree{
     vector<int> tree;
-    Segtree(vector<int>& nums){
+    SegTree(vector<int> nums){
         int n=nums.size();
         tree.resize(4*n, 0);
-        build(0, 0, n-1, nums);
+        build(0,0,n-1,nums);
     }
 
     void build(int ind, int l, int r, vector<int>& nums){
@@ -31,25 +31,24 @@ public:
         tree[i]=max(tree[2*i+1], tree[2*i+2]);
     }
 
-    int findFirst(int i,int l, int r, int need){
-        if(tree[i]<need) return -1;
+    int helper(int i, int l, int r, int val){
+        if(tree[i]<val) return -1;
         if(l==r) return l;
 
         int mid=(l+r)/2;
-        if(tree[2*i+1]>=need) return findFirst(2*i+1, l, mid, need);
-        return findFirst(2*i+2, mid+1, r, need);
+        if(tree[2*i+1]>=val) return helper(2*i+1, l, mid, val);
+        return helper(2*i+2, mid+1, r, val);
     }
- };
-
+};
     int numOfUnplacedFruits(vector<int>& fruits, vector<int>& baskets) {
         int n=fruits.size();
-        Segtree* st=new Segtree(baskets);
         int ans=0;
+        SegTree* st=new SegTree(baskets);
         for(int i=0; i<n; i++){
-            int pos=st->findFirst(0,0,n-1,fruits[i]);
-            if(pos!=-1) st->update(0,0,n-1,pos,0);
+            int val=st->helper(0,0,n-1,fruits[i]);
+            if(val!=-1) st->update(0,0,n-1,val,0);
             else ans++;
         }
-        return ans;
+        return ans;    
     }
 };
