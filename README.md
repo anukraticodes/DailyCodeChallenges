@@ -674,6 +674,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1300-critical-connections-in-a-network](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1300-critical-connections-in-a-network) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1396-count-servers-that-communicate) |
@@ -1695,6 +1696,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1493-frog-position-after-t-seconds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1493-frog-position-after-t-seconds) |
@@ -1755,6 +1757,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1544-count-good-nodes-in-binary-tree) |
