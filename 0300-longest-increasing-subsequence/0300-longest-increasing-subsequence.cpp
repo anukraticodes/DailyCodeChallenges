@@ -1,28 +1,17 @@
 class Solution {
 public:
-
-   int bs(vector<int>& res, int num){
-    int left=0, right=res.size()-1;
-    while(left<=right){
-        int mid=(left+right)/2;
-        if(res[mid]==num) return mid;
-        if(res[mid]>num) right=mid-1;
-        else left=mid+1;
-    }
-    return left;
-   }
-
     int lengthOfLIS(vector<int>& nums) {
-        vector<int> res;
-        for(int n:nums){
-            if(res.empty() || res.back()<n){
-                res.push_back(n);
+        vector<int> ans;
+        for(int i=0; i<nums.size(); i++){
+            if(ans.empty() || ans.back()<nums[i]){
+                ans.push_back(nums[i]);
             }
             else{
-                int ind=bs(res, n);
-                res[ind]=n;
+                auto ind=lower_bound(ans.begin(), ans.end(),nums[i]);
+                *ind=nums[i];
             }
+           
         }
-        return res.size();
+        return ans.size();
     }
 };
