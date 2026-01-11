@@ -270,6 +270,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0011-container-with-most-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
@@ -1479,6 +1480,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0328-odd-even-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
