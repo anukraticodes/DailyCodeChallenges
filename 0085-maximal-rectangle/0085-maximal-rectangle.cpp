@@ -1,43 +1,38 @@
 class Solution {
 public:
-    int maximalRectangle(vector<vector<char>>& matrix) {
-        if(matrix.empty()) return 0;
+    int maximalRectangle(vector<vector<char>>& mat) {
+        int n=mat.size(), m=mat[0].size();
+        vector<vector<int>> matrix(n, vector<int>(m, 0));
+        for(int i=0; i<n; i++)
+        for(int j=0; j<m; j++)
+        matrix[i][j]=mat[i][j]-'0';
 
-        int rows=matrix.size();
-        int cols=matrix[0].size();
-        vector<int> heights(cols,0);
-        int maxA=0;
-
-        for(int i=0; i<rows; i++){
-           for(int j=0; j<cols; j++){
-            if(matrix[i][j]=='0') heights[j]=0;
-            else heights[j]+=1;
-           }
-
-           vector<int> next(cols,cols);
-           vector<int> prev(cols,-1);
-           stack<int>s;
-
-           for(int j=cols-1; j>=0; j--){
-            while(!s.empty()&&heights[s.top()]>=heights[j]) s.pop();
-            if(!s.empty()) next[j]=s.top();
-            s.push(j);
-           }
-
-           s=stack<int>();
-
-           for(int j=0; j<cols; j++){
-            while(!s.empty()&&heights[s.top()]>=heights[j])s.pop();
-            if(!s.empty()) prev[j]=s.top();
-            s.push(j);
-           }
-
-           for(int j=0; j<cols; j++){
-            int width=next[j]-prev[j]-1;
-            int area=heights[j]*width;
-            maxA=max(maxA, area);
-           }
+        for(int i=0; i<n; i++){
+            for(int j=1; j<m; j++){
+                if(matrix[i][j]==1) matrix[i][j]+=matrix[i][j-1];
+            }
         }
-        return maxA;
+        int ans=0;
+        for(int j=0; j<m; j++){
+            for(int i=0; i<n; i++){
+                int w=matrix[i][j];
+                if(w==0) continue;
+
+                int currw=w;
+                for(int k=i; k<n && matrix[k][j]>0; k++){
+                    currw=min(currw, matrix[k][j]);
+                    int h=k-i+1;
+                    ans=max(ans, currw*h);
+                }
+
+                currw=w;
+                for (int k = i; k >= 0 && matrix[k][j] > 0; k--) {
+                    currw = min(currw, matrix[k][j]);
+                    int h= i - k + 1;
+                    ans = max(ans, currw * h);
+                }
+            }
+        }
+        return ans;
     }
 };
