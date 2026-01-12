@@ -949,6 +949,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1397-search-suggestions-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -1406,6 +1407,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -1631,6 +1633,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1109-corporate-flight-bookings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1314-matrix-block-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
