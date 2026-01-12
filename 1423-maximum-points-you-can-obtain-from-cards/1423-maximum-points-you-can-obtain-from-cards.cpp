@@ -11,7 +11,7 @@ public:
           currs+=cp[r--];
           ans=max(ans, currs); 
         }
-        ans=max(ans, currs);
+        // ans=max(ans, currs);
         return ans;
     }
 };
