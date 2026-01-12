@@ -935,6 +935,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1171-shortest-path-in-binary-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1293-three-consecutive-odds) |
 | [1314-matrix-block-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1314-matrix-block-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1319-unique-number-of-occurrences) |
@@ -1546,6 +1547,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1033-broken-calculator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1033-broken-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1266-minimum-time-visiting-all-points) |
 | [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1390-four-divisors) |
@@ -2029,6 +2031,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Reservoir Sampling
 |  |
