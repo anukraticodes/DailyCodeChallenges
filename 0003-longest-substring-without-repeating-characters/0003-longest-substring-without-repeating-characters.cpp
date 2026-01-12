@@ -7,14 +7,14 @@ public:
         while(r<s.size()){
             char curr=s[r];
             while(mp.count(curr) && l<r){
-                mp.erase(mp[s[l]]);
+                mp.erase(s[l]);
                 l++;
             }
             ans=max(ans, r-l+1);
             mp[curr]++;
             r++;
         }
-        if(l!=s.size()-1) ans=max(ans, r-l+1);
+        // ans=max(ans, r-l+1);
         return ans;
     }
 };
