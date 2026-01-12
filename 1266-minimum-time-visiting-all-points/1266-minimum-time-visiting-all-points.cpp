@@ -23,7 +23,6 @@ public:
             x1--, y1--;
           }
           ans+=(x1==x2)?abs(y2-y1):abs(x2-x1);
-          cout<<ans<<" ";
         }
         return ans;
     }
