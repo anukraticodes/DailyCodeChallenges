@@ -919,6 +919,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1002-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1022-unique-paths-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1022-unique-paths-iii) |
@@ -1404,6 +1405,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0643-maximum-average-subarray-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1454,6 +1456,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0792-binary-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1023-time-based-key-value-store](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1628,6 +1631,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0713-subarray-product-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1109-corporate-flight-bookings) |
