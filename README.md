@@ -907,6 +907,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0854-making-a-large-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1314,6 +1315,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
 | [0889-buddy-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0889-buddy-strings) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0904-fruit-into-baskets) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -1404,6 +1406,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
