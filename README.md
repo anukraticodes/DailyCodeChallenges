@@ -1085,6 +1085,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3430-count-days-without-meetings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3453-separate-squares-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3477-fruits-into-baskets-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1484,6 +1485,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3453-separate-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3477-fruits-into-baskets-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Linked List
