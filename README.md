@@ -363,6 +363,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1304-longest-happy-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1397-search-suggestions-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1331,6 +1332,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1256-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -1412,6 +1414,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1004-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1460-number-of-substrings-containing-all-three-characters) |
