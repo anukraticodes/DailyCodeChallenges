@@ -17,10 +17,10 @@ const long long MOD = 1000000007;
             }
         }
         for(int i=0; i<h.size(); i++){
-        // if (h.back() - h[i] <= ans) break;
+        if(m-h[i]<ans) break;
 
             for(int j=i+1; j<h.size(); j++){
-               
+               if(h[j]-h[i]<ans) continue;
 
                if(st.find(abs(h[j]-h[i]))!=st.end()){
                 ans=max(ans, abs(h[j]-h[i]));
