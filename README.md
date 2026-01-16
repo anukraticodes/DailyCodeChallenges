@@ -1062,6 +1062,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2808-painting-the-walls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2808-painting-the-walls) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3001-apply-operations-to-maximize-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
@@ -1379,6 +1380,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1970,6 +1972,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2174-next-greater-numerically-balanced-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2215-finding-3-digit-even-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2998-count-symmetric-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3548-find-the-count-of-good-integers) |
