@@ -1,21 +1,24 @@
 class Solution {
 public:
 
+void reset(int& l, int& cnt, int& r){
+    l=r+1;
+    cnt=0;
+}
+
     bool helper(vector<int>& bd, int m, int k, int days){
         int cnt=0;
          int done=0;
         int l=0;
         for(int r=0; r<bd.size(); r++){
            if(bd[r]>days){
-            l=r+1;
-            cnt=0;
+            reset(l,cnt,r);
             continue;
            }
         //    cnt++;
            if(++cnt==k){
             if(++done==m) return 1;
-            l=r+1;
-            cnt=0;
+            reset(l,cnt,r);
            }
         //    if(done==m) return 1;
 
