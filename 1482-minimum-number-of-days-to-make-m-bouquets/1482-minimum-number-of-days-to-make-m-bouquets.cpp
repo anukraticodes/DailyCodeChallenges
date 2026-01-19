@@ -11,8 +11,8 @@ public:
             cnt=0;
             continue;
            }
-           cnt++;
-           if(cnt==k){
+        //    cnt++;
+           if(++cnt==k){
             if(++done==m) return 1;
             l=r+1;
             cnt=0;
