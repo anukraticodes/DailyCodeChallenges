@@ -13,11 +13,11 @@ public:
            }
            cnt++;
            if(cnt==k){
-            done++;
+            if(++done==m) return 1;
             l=r+1;
             cnt=0;
            }
-           if(done==m) return 1;
+        //    if(done==m) return 1;
 
         }
         return 0;
