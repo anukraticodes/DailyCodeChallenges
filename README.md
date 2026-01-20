@@ -1083,6 +1083,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3305-count-prefix-and-suffix-pairs-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3305-count-prefix-and-suffix-pairs-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -1959,6 +1960,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2792-neighboring-bitwise-xor) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3600-find-the-k-th-character-in-string-game-i) |
