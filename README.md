@@ -966,6 +966,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1524-string-matching-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1539-kth-missing-positive-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1539-kth-missing-positive-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1485,6 +1486,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1539-kth-missing-positive-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1646-kth-missing-positive-number) |
