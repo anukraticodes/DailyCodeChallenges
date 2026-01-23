@@ -858,6 +858,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0307-range-sum-query-mutable) |
@@ -1263,6 +1264,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
@@ -1464,6 +1466,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1879,6 +1882,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0218-the-skyline-problem) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
