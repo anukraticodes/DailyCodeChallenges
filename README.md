@@ -908,6 +908,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0853-car-fleet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-car-fleet) |
 | [0854-making-a-large-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
+| [0875-koko-eating-bananas](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0907-koko-eating-bananas) |
@@ -1476,6 +1477,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0745-find-smallest-letter-greater-than-target](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1011-capacity-to-ship-packages-within-d-days) |
