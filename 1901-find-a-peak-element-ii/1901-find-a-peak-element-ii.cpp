@@ -1,19 +1,21 @@
 class Solution {
 public:
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
-        int l=0, r=mat[0].size()-1;
+        int n=mat.size(), m=mat[0].size();
+        int l=0, r=m-1;
         while(l<=r){
             int mr=0, mc=(l+r)/2;
-            for(int i=0; i<mat.size(); i++){
+            for(int i=0; i<n; i++){
                 mr=mat[i][mc]>=mat[mr][mc]?i:mr;
             }
 
-        bool leftisbig=mc-1>=l && mat[mr][mc-1]>mat[mr][mc];
-        bool rightisbig=mc+1<=r && mat[mr][mc+1]>mat[mr][mc];
-        if(!leftisbig && !rightisbig) return vector<int>{mr, mc};
-        else if(rightisbig) l=mc+1;
-        else r=mc-1;
+            bool lb= mc-1>0 && mat[mr][mc]<mat[mr][mc-1];
+            bool rb= mc+1<m && mat[mr][mc]<mat[mr][mc+1];
+            if(!lb &&!rb) return vector<int>{mr, mc};
+            else if(lb)r=mc-1;
+            else l=mc+1;
         }
-        return vector<int>{-1,-1};
+        return vector<int>{-1, -1};
+
     }
 };
