@@ -1002,6 +1002,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1895-largest-magic-square) |
+| [1901-find-a-peak-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1901-find-a-peak-element-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -1290,6 +1291,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1876-map-of-highest-peak) |
 | [1895-largest-magic-square](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1895-largest-magic-square) |
+| [1901-find-a-peak-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1901-find-a-peak-element-ii) |
 | [1975-maximum-matrix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2145-grid-game) |
@@ -1505,6 +1507,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1901-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
