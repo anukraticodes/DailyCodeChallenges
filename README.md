@@ -1064,6 +1064,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2616-maximal-score-after-applying-k-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2636-maximum-subsequence-score](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2636-maximum-subsequence-score) |
+| [2643-row-with-maximum-ones](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2643-row-with-maximum-ones) |
 | [2681-put-marbles-in-bags](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1298,6 +1299,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2643-row-with-maximum-ones](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2643-row-with-maximum-ones) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2728-sum-in-a-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2728-sum-in-a-matrix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
