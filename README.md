@@ -556,6 +556,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
 | [1129-longest-string-chain](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1256-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1397-search-suggestions-system](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1397-search-suggestions-system) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -951,6 +952,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1293-three-consecutive-odds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1293-three-consecutive-odds) |
 | [1314-matrix-block-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1314-matrix-block-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1331-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1364-tuple-with-same-product) |
@@ -1355,6 +1357,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1364-tuple-with-same-product) |
