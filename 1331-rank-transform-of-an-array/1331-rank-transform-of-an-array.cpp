@@ -1,19 +1,20 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        map<int, vector<int>> mp;
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<>> pq;
         for(int i=0; i<arr.size(); i++){
-            mp[arr[i]].push_back(i);
+            pq.push({arr[i],i});
         } 
-        int n=arr.size();
-        vector<int> ans(n);
         int rank=1;
-        for(auto it:mp){
-            for(auto it2:it.second){
-                ans[it2]=rank;
-            }
-            rank++;
+  
+        vector<int> ans(arr.size());
+        while(!pq.empty()){
+            auto[curr, ind]=pq.top();
+            pq.pop();
+            ans[ind]=rank;
+            if(pq.top().first!=curr)rank++;
         }
         return ans;
+        
     }
 };
