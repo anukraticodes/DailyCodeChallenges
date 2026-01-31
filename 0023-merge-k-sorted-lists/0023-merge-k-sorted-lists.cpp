@@ -18,25 +18,18 @@ public:
             pq.push({it->val, it});
         }
         if(pq.empty()) return {};
-        auto [val, node]=pq.top();
-        if(node==NULL) return {};
-        ListNode* root=new ListNode(val);
-        ListNode* curr=root;
-        pq.pop();
-        if(node->next){
-            pq.push({node->next->val, node->next});
-        }
+        ListNode dummy(0);
+        ListNode* curr=&dummy;
         while(!pq.empty()){
-            auto [val, node]=pq.top();
+            auto[val, node]=pq.top();
             pq.pop();
-            if(node==NULL) continue;
             ListNode* nn=new ListNode(val);
             curr->next=nn;
             curr=nn;
-            if(node->next)
-            pq.push({node->next->val, node->next});
+            if(node->next){
+                pq.push({node->next->val, node->next});
+            }
         }
-        return root;
-
+        return dummy.next;
     }
 };
