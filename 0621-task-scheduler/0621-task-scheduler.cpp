@@ -19,32 +19,31 @@ public:
                 it->second--;
                 if ((it->second) == 0) {
                     banned.erase(it->first);
-                    it = curr.erase(it);         
+                    it = curr.erase(it);
                 } else {
                     ++it;
                 }
             }
-            // auto [f, c] = pq.top();
-            while(! pq.empty() && banned.count(pq.top().second)){
-              auto it=pq.top();q.push(it); pq.pop();
-              }
-              auto [f, c] = pq.top();
-            if (!curr.count(c) && !banned.count(c)){
+            while (!pq.empty() && banned.count(pq.top().second)) {
+                auto it = pq.top();
+                q.push(it);
                 pq.pop();
-                if (f>1) {
-                    curr[c] = n+1;
+            }
+            auto [f, c] = pq.top();
+            if (!pq.empty()) {
+                pq.pop();
+                if (f > 1) {
+                    curr[c] = n + 1;
                     banned.insert(c);
                     pq.push({f - 1, c});
-                }       
+                }
             }
-            while(!q.empty()){
+            while (!q.empty()) {
                 pq.push(q.front());
                 q.pop();
             }
             time++;
-            }
-            
-        
+        }
         return time;
     }
 };
