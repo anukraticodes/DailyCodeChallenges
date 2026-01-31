@@ -608,6 +608,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
@@ -1534,6 +1535,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0328-odd-even-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -1896,6 +1898,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0218-the-skyline-problem) |
@@ -1932,6 +1935,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
