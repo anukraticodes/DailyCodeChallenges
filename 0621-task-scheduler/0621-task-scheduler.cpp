@@ -1,48 +1,31 @@
 class Solution {
 public:
     int leastInterval(vector<char>& tasks, int n) {
-        priority_queue<pair<int, char>> pq;
+        priority_queue<int> pq;
         unordered_map<char, int> mp;
         for (auto it : tasks) {
             mp[it]++;
         }
         for (auto it : mp) {
-            pq.push({it.second, it.first});
+            pq.push(it.second);
         }
         int time = 0;
-        unordered_map<char, int> curr;
-        set<char> banned;
-        queue<pair<int, char>> q;
-        while (!pq.empty()) {
-
-            for (auto it = curr.begin(); it != curr.end();) {
-                it->second--;
-                if ((it->second) == 0) {
-                    banned.erase(it->first);
-                    it = curr.erase(it);
-                } else {
-                    ++it;
+        while(!pq.empty()){
+            int cnt=0;
+            queue<int> q;
+            int iter=n+1;
+            while(iter-- && !pq.empty()){
+                if(pq.top()>1){
+                    q.push(pq.top()-1);
                 }
-            }
-            while (!pq.empty() && banned.count(pq.top().second)) {
-                auto it = pq.top();
-                q.push(it);
                 pq.pop();
+                cnt++;
             }
-            auto [f, c] = pq.top();
-            if (!pq.empty()) {
-                pq.pop();
-                if (f > 1) {
-                    curr[c] = n + 1;
-                    banned.insert(c);
-                    pq.push({f - 1, c});
-                }
-            }
-            while (!q.empty()) {
+            while(!q.empty()){
                 pq.push(q.front());
                 q.pop();
             }
-            time++;
+            time+=(pq.empty()?cnt:n+1);
         }
         return time;
     }
