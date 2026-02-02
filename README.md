@@ -447,6 +447,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0768-partition-labels](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0797-rabbits-in-forest) |
+| [0846-hand-of-straights](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0846-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -551,6 +552,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0692-top-k-frequent-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
+| [0846-hand-of-straights](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0948-sort-an-array) |
@@ -913,6 +915,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0792-binary-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0797-rabbits-in-forest) |
+| [0846-hand-of-straights](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-car-fleet) |
 | [0854-making-a-large-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
@@ -1342,6 +1345,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0797-rabbits-in-forest) |
+| [0846-hand-of-straights](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
 | [0889-buddy-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0889-buddy-strings) |
