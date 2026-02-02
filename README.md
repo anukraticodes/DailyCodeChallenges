@@ -614,6 +614,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
 | [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0621-task-scheduler) |
@@ -1333,6 +1334,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0229-majority-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
@@ -1542,6 +1544,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0023-merge-k-sorted-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0328-odd-even-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1801,6 +1804,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0208-implement-trie-prefix-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0307-range-sum-query-mutable) |
+| [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0937-online-stock-span) |
