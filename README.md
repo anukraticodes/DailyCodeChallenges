@@ -1128,6 +1128,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3637-trionic-array-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3637-trionic-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
