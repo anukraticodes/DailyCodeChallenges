@@ -897,6 +897,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
@@ -1154,6 +1155,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
@@ -1183,6 +1185,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0084-largest-rectangle-in-histogram](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-car-fleet) |
