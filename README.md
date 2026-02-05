@@ -1118,6 +1118,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3430-count-days-without-meetings) |
@@ -1593,6 +1594,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2857-total-distance-traveled](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2857-total-distance-traveled) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3447-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3477-fruits-into-baskets-ii) |
