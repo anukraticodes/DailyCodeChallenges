@@ -662,6 +662,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0079-word-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
@@ -1784,6 +1785,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0094-binary-tree-inorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1852,6 +1854,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0094-binary-tree-inorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0144-binary-tree-preorder-traversal) |
