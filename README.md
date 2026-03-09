@@ -1276,6 +1276,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2554-minimum-total-distance-traveled](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2586-longest-square-streak-in-an-array) |
 | [2808-painting-the-walls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2808-painting-the-walls) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1742,6 +1743,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3616-make-array-elements-equal-to-zero) |
