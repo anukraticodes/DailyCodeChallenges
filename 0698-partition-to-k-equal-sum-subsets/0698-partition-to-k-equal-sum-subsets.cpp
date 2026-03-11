@@ -5,7 +5,7 @@ public:
         int sum=accumulate(nums.begin(), nums.end(), 0);
         if(sum%k!=0) return 0;
         int target=sum/k;
-        sort(nums.rbegin(), nums.rend());
+        // sort(nums.rbegin(), nums.rend());
         vector<bool> vis(n, 0);
         return helper(nums, vis, 0, k, 0, target);
     }
