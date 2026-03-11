@@ -2029,6 +2029,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0338-counting-bits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1009-complement-of-base-10-integer](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1009-complement-of-base-10-integer) |
 | [1022-unique-paths-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1022-unique-paths-iii) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
