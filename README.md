@@ -291,6 +291,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1880-largest-merge-of-two-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1923-sentence-similarity-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -581,6 +582,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1798-max-number-of-k-sum-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1032,6 +1034,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1975-maximum-matrix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1266,6 +1269,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1545,6 +1549,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1994,6 +1999,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0218-the-skyline-problem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2413-smallest-number-in-infinite-set) |
@@ -2036,6 +2042,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1668-find-longest-awesome-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1668-find-longest-awesome-substring) |
 | [1940-maximum-xor-for-each-query](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2044-number-of-wonderful-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -2058,6 +2065,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
