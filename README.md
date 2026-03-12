@@ -539,6 +539,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0016-3sum-closest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0218-the-skyline-problem) |
@@ -844,6 +845,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0064-minimum-path-sum) |
