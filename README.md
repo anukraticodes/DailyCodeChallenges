@@ -1651,6 +1651,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -1853,6 +1854,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0969-number-of-recent-calls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1622-fancy-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2276-count-integers-in-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2276-count-integers-in-intervals) |
 | [2413-smallest-number-in-infinite-set](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2413-smallest-number-in-infinite-set) |
@@ -1988,6 +1990,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0406-queue-reconstruction-by-height](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1622-fancy-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1622-fancy-sequence) |
 | [2276-count-integers-in-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2276-count-integers-in-intervals) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
