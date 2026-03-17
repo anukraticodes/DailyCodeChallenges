@@ -352,6 +352,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0692-top-k-frequent-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0889-buddy-strings) |
 | [0952-word-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0952-word-subsets) |
@@ -755,6 +756,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0744-network-delay-time) |
+| [0752-open-the-lock](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0752-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -934,6 +936,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0739-daily-temperatures](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0747-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0752-open-the-lock) |
 | [0757-set-intersection-size-at-least-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0757-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0792-binary-search) |
@@ -1381,6 +1384,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0797-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0846-hand-of-straights) |
