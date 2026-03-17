@@ -757,6 +757,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0744-network-delay-time) |
 | [0752-open-the-lock](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0752-open-the-lock) |
+| [0773-sliding-puzzle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0773-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -938,6 +939,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0747-min-cost-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0747-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0752-open-the-lock) |
 | [0757-set-intersection-size-at-least-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0757-set-intersection-size-at-least-two) |
+| [0773-sliding-puzzle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0773-sliding-puzzle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0794-swim-in-rising-water) |
@@ -1264,6 +1266,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0747-min-cost-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0773-sliding-puzzle) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1063-best-sightseeing-pair) |
@@ -1321,6 +1324,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0529-minesweeper](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
+| [0773-sliding-puzzle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0773-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
@@ -1938,6 +1942,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0216-combination-sum-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0773-sliding-puzzle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0773-sliding-puzzle) |
 | [1022-unique-paths-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1022-unique-paths-iii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -2033,6 +2038,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0070-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0773-sliding-puzzle](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0773-sliding-puzzle) |
 | [1236-n-th-tribonacci-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1236-n-th-tribonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
