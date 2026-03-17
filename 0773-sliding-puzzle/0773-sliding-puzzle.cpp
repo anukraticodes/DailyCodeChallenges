@@ -28,16 +28,8 @@ public:
                 int dx = x + dir[i], dy = y + dir[i + 1];
                 if (dx >= 0 && dx < 2 && dy >= 0 && dy < 3) {
                     int curr = sg[dx][dy];
-                    for (int i = 0; i < 2; i++) {
-                        for (int j = 0; j < 3; j++) {
-                            if (i == dx && j == dy)
-                                mat[i][j]=0;
-                            else if (sg[i][j] == 0)
-                                mat[i][j]=curr;
-                            else
-                                mat[i][j]=sg[i][j];
-                        }
-                    }
+                    vector<vector<int>> mat=sg;
+                    swap(mat[x][y], mat[dx][dy]);
                     if (!st.count(mat)){
                         st.insert(mat);
                         q.push({mat, dep + 1});
