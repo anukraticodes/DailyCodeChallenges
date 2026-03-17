@@ -688,6 +688,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0399-evaluate-division](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0721-accounts-merge) |
@@ -747,6 +748,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0399-evaluate-division](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0684-redundant-connection) |
@@ -911,6 +913,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0518-coin-change-ii) |
+| [0529-minesweeper](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
@@ -1312,6 +1315,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0200-number-of-islands](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
+| [0529-minesweeper](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0794-swim-in-rising-water) |
