@@ -1,18 +1,12 @@
 class Solution {
 public:
     int slidingPuzzle(vector<vector<int>>& board) {
-        string s = "";
-        string target = "123450";
-        unordered_set<string> st;
-        for (int i = 0; i < 2; i++) {
-            for (int j = 0; j < 3; j++) {
-                s += board[i][j]+'0';
-            }
-        }
+        vector<vector<int>> target = {{1,2,3},{4,5,0}};
+        set<vector<vector<int>>> st;
         int ans = INT_MAX;
-        queue<pair<string, int>> q;
-        q.push({s, 0});
-        st.insert(s);
+        queue<pair<vector<vector<int>>, int>> q;
+        q.push({board, 0});
+        st.insert(board);
         vector<int> dir = {-1, 0, 1, 0, -1};
         while (!q.empty()) {
             auto [sg, dep] = q.front();
@@ -22,33 +16,31 @@ public:
                 break;
             }
             vector<vector<int>> mat(2, vector<int>(3));
-            int k = 0, x = -1, y = -1;
+            int x = -1, y = -1;
             for (int i = 0; i < 2; i++) {
                 for (int j = 0; j < 3; j++) {
-                    if (sg[k] == '0') {
+                    if (sg[i][j] == 0) {
                         x = i, y = j;
                     }
-                    mat[i][j] = sg[k++] - '0';
                 }
             }
             for (int i = 0; i < 4; i++) {
                 int dx = x + dir[i], dy = y + dir[i + 1];
                 if (dx >= 0 && dx < 2 && dy >= 0 && dy < 3) {
-                    int curr = mat[dx][dy];
-                    string s1 = "";
+                    int curr = sg[dx][dy];
                     for (int i = 0; i < 2; i++) {
                         for (int j = 0; j < 3; j++) {
                             if (i == dx && j == dy)
-                                s1 += "0";
-                            else if (mat[i][j] == 0)
-                                s1 += curr + '0';
+                                mat[i][j]=0;
+                            else if (sg[i][j] == 0)
+                                mat[i][j]=curr;
                             else
-                                s1 += mat[i][j]+'0';
+                                mat[i][j]=sg[i][j];
                         }
                     }
-                    if (!st.count(s1)){
-                        st.insert(s1);
-                        q.push({s1, dep + 1});
+                    if (!st.count(mat)){
+                        st.insert(mat);
+                        q.push({mat, dep + 1});
                     }
                 }
             }
