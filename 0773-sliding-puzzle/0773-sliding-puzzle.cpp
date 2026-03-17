@@ -1,6 +1,15 @@
 class Solution {
 public:
     int slidingPuzzle(vector<vector<int>>& board) {
+        string state = "";
+        for(int i = 0; i < 2; i++)
+        {
+            for(int j = 0; j < 3; j++)
+            {
+                state += to_string(board[i][j]);
+            }
+        }
+        if(!isSolvable(state)) return -1;
         vector<vector<int>> target = {{1,2,3},{4,5,0}};
         set<vector<vector<int>>> st;
         int ans = INT_MAX;
@@ -38,5 +47,19 @@ public:
             }
         }
         return ans == INT_MAX ? -1 : ans;
+    }
+    bool isSolvable(string state)
+    {
+        int inversions = 0;
+        for(int i = 0; i < 6; i++)
+        {
+            if(state[i] == '0') continue;
+            for(int j = i + 1; j < 6; j++)
+            {
+                if(state[j] == '0') continue;
+                if(state[i] > state[j]) inversions++;
+            }
+        }
+        return (inversions & 1) == 0;
     }
 };
