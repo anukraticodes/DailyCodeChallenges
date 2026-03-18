@@ -1662,6 +1662,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1146-greatest-common-divisor-of-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1236-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1266-minimum-time-visiting-all-points) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1307-ugly-number-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1307-ugly-number-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1390-four-divisors) |
