@@ -8,7 +8,7 @@ public:
     Node* topRight;
     Node* bottomLeft;
     Node* bottomRight;
-    
+
     Node() {
         val = false;
         isLeaf = false;
@@ -17,7 +17,7 @@ public:
         bottomLeft = NULL;
         bottomRight = NULL;
     }
-    
+
     Node(bool _val, bool _isLeaf) {
         val = _val;
         isLeaf = _isLeaf;
@@ -26,61 +26,52 @@ public:
         bottomLeft = NULL;
         bottomRight = NULL;
     }
-    
-    Node(bool _val, bool _isLeaf, Node* _topLeft, Node* _topRight, Node* _bottomLeft, Node* _bottomRight) {
-        val = _val;
-        isLeaf = _isLeaf;
-        topLeft = _topLeft;
-        topRight = _topRight;
-        bottomLeft = _bottomLeft;
-        bottomRight = _bottomRight;
+
+    Node(bool _val, bool _isLeaf, Node* _topLeft, Node* _topRight, Node*
+_bottomLeft, Node* _bottomRight) { val = _val; isLeaf = _isLeaf; topLeft =
+_topLeft; topRight = _topRight; bottomLeft = _bottomLeft; bottomRight =
+_bottomRight;
     }
 };
 */
 
 class Solution {
 public:
-    int isleaf(vector<vector<int>>& grid){
-        int n=grid.size();
-        int sum=0;
-        for(int i=0; i<n; i++){
-            sum+=accumulate(grid[i].begin(), grid[i].end(),0);
-        }
-        if(sum==0) return 0;
-        if(sum==(n*n)) return 1;
-        return -1;
-    }
-    vector<vector<int>> make(vector<vector<int>>& grid, int x, int y, int x2, int y2){
-        int n=grid.size();
-        vector<vector<int>> ans(n/2, vector<int>(n/2));
-        int k1=0, k2=0;
-        for(int i=x; i<=x2; i++){
-            k2=0;
-            for(int j=y; j<=y2; j++){
-                ans[k1][k2]=grid[i][j];
-                k2++;
+    int isleaf(vector<vector<int>>& grid, int x, int y, int x2, int y2) {
+        int sum = 0;
+        for (int i = x; i <= x2; i++) {
+            for (int j = y; j <= y2; j++) {
+                sum += grid[i][j];
             }
-            k1++;
         }
-        return ans;
+
+        int total = (x2 - x + 1) * (y2 - y + 1);
+        if (sum == 0)
+            return 0;
+        if (sum == total)
+            return 1;
+        return -1;
     }
 
     Node* construct(vector<vector<int>>& grid) {
+        int n = grid.size();
+        return construct2(grid, 0, 0, n - 1, n - 1);
+    }
+
+    Node* construct2(vector<vector<int>>& grid, int x, int y, int x2, int y2) {
         Node* root;
-        int ans=isleaf(grid);
-        if(ans!=-1){
-          return root=new Node(ans, 1, nullptr, nullptr, nullptr, nullptr);
+        int ans = isleaf(grid, x, y, x2, y2);
+        if (ans != -1) {
+            return root = new Node(ans, 1, nullptr, nullptr, nullptr, nullptr);
         }
-        int n=grid.size();
-        vector<vector<int>> tl=make(grid, 0,0,(n/2)-1,(n/2)-1);
-        vector<vector<int>> tr=make(grid, 0,(n/2),(n/2)-1,n-1);
-        vector<vector<int>> bl=make(grid, n/2,0,n-1,(n/2)-1);
-        vector<vector<int>> br=make(grid, n/2,n/2,n-1,n-1);
-        Node* topleft=construct(tl);
-        Node* topright=construct(tr);
-        Node* bottomleft=construct(bl);
-        Node* bottomright=construct(br);
-        root=new Node(0,0, topleft, topright, bottomleft, bottomright);
+        int midX = (x + x2) / 2;
+    int midY = (y + y2) / 2;
+
+    Node* topleft = construct2(grid, x, y, midX, midY);
+    Node* topright = construct2(grid, x, midY + 1, midX, y2);
+    Node* bottomleft = construct2(grid, midX + 1, y, x2, midY);
+    Node* bottomright = construct2(grid, midX + 1, midY + 1, x2, y2);
+        root = new Node(0, 0, topleft, topright, bottomleft, bottomright);
         return root;
     }
 };
