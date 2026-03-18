@@ -2217,4 +2217,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
