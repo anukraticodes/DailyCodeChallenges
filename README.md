@@ -1593,6 +1593,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -1643,6 +1644,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0062-unique-paths) |
@@ -1716,6 +1718,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
