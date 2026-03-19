@@ -1,71 +1,48 @@
-struct DSU{
-        vector<int> parent, rank;
-        DSU(int n){
-           parent.resize(n);
-           rank.resize(n,0);
-           for(int i=0; i<n; i++) parent[i]=i;
-        }
-
-        int findP(int u){
-            if(parent[u]!=u) return parent[u]=findP(parent[u]);
-            return parent[u];
-        }
-
-        void unite(int u, int v){
-            int pv=findP(v), pu=findP(u);
-            if(pu==pv) return;
-            if(rank[pu]>rank[pv]){
-                parent[pv]=pu;
-            }
-            else if(rank[pv]>rank[pu]){
-                parent[pu]=pv;
-            }
-            else{
-                parent[pu]=pv;
-                rank[pv]++;
-            }
-        }
-    };
-
 class SummaryRanges {
 public:
+    map<int, int> mp;
 
-    DSU dsu;
-    unordered_set<int> st;
+    SummaryRanges() {}
 
-    SummaryRanges() : dsu(10001) {
-        
-    }
-    
     void addNum(int value) {
-        if(st.count(value)) return;
-        if(st.count(value-1)){
-            dsu.unite(value, value-1);
+    auto it = mp.lower_bound(value);
+
+    // Case 1: already exists
+    if (it != mp.end() && it->first == value) return;
+
+    int start = value, end = value;
+
+    // Check previous interval
+    if (it != mp.begin()) {
+        auto prev = it;
+        --prev;
+
+        // already covered
+        if (prev->second >= value) return;
+
+        // merge with previous
+        if (prev->second == value - 1) {
+            start = prev->first;
+            mp.erase(prev);
         }
-        if(st.count(value+1)){
-            dsu.unite(value, value+1);
-        }
-        st.insert(value);
     }
-    
+
+    // Check next interval
+    if (it != mp.end() && it->first == value + 1) {
+        end = it->second;
+        mp.erase(it);
+    }
+
+    // Insert merged/new interval
+    mp[start] = end;
+
+    }
+
+
     vector<vector<int>> getIntervals() {
         vector<vector<int>> ans;
-        map<int, set<int>> mp;
-        for(auto it:st){
-            int p=dsu.findP(it);
-            mp[p].insert(it);
-        }
-        for(auto it:mp){
-            auto v=it.second;
-            if(v.size()==1){
-            int val=*v.begin();
-               ans.push_back({val, val});
-            }
-            else{
-            int f=*v.begin();
-            int s=*v.rbegin();
-            ans.push_back({f,s});
-            }
+        for (auto it : mp) {
+            ans.push_back({it.first, it.second});
         }
         return ans;
     }
