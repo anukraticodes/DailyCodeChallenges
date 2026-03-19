@@ -1383,6 +1383,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0229-majority-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
@@ -1544,6 +1545,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0300-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0374-guess-number-higher-or-lower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0436-find-right-interval) |
@@ -1873,6 +1875,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0295-find-median-from-data-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0307-range-sum-query-mutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1937,6 +1940,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0901-online-stock-span) |
@@ -2037,6 +2041,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0218-the-skyline-problem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -2229,4 +2234,5 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
