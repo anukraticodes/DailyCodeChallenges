@@ -628,6 +628,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0023-merge-k-sorted-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
@@ -892,6 +893,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0228-summary-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0300-longest-increasing-subsequence) |
@@ -1491,6 +1493,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
@@ -1738,6 +1741,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -2193,6 +2197,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Minimum Spanning Tree
 |  |
