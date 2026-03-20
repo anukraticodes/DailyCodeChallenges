@@ -274,6 +274,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0031-next-permutation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1185,6 +1186,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0144-binary-tree-preorder-traversal](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
@@ -1604,6 +1606,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0234-palindrome-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0445-add-two-numbers-ii) |
@@ -1730,6 +1733,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0002-add-two-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
 | [0342-power-of-four](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0342-power-of-four) |
