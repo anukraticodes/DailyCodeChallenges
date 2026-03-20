@@ -1186,6 +1186,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0150-evaluate-reverse-polish-notation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0678-valid-parenthesis-string) |
@@ -1605,6 +1606,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0328-odd-even-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0445-add-two-numbers-ii) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1665,6 +1667,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0368-largest-divisible-subset](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0368-largest-divisible-subset) |
 | [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0445-add-two-numbers-ii) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0670-maximum-swap](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0797-rabbits-in-forest) |
