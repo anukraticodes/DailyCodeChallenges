@@ -5,7 +5,7 @@ public:
         vector<int> ans;
         for(int i=0; i<k; i++) st.insert(nums[i]);
         int l=0, r=k;
-        for(r=k; r<nums.size(); r++){
+        while(r<=nums.size()){
             int maxi=*st.rbegin();
             ans.push_back(maxi);
             int value=nums[l++];
@@ -13,10 +13,10 @@ public:
             if (it != st.end()) {
                 st.erase(it);
             }
+            if(r!=nums.size())
             st.insert(nums[r]);
+            r++;
         }
-        int maxi=*st.rbegin();
-        ans.push_back(maxi);
         return ans;
     }
 };
