@@ -878,6 +878,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -1382,6 +1383,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0133-clone-graph) |
+| [0149-max-points-on-a-line](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0219-contains-duplicate-ii) |
@@ -1662,6 +1664,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0066-plus-one](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
@@ -2213,6 +2216,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1014-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
