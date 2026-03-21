@@ -11,19 +11,26 @@
  */
 class Solution {
 public:
-int sum=0;
-void traverse(TreeNode* root){
-    if(root){
-        traverse(root->right);
-        sum+=root->val;
-        root->val=sum;
-        traverse(root->left);
-    }
-}
-
-
     TreeNode* bstToGst(TreeNode* root) {
-        traverse(root);
+        stack<TreeNode*> st;
+        set<TreeNode*> s;
+        int sum=0;
+        st.push(root);
+        s.insert(root);
+        while(!st.empty()){
+            TreeNode* node=st.top();
+        
+            if(node->right && !s.count(node->right)){
+                st.push(node->right);
+                s.insert(node->right);
+            }
+            else{
+                sum+=node->val;
+                node->val=sum;
+                st.pop();
+                if(node->left) st.push(node->left);
+            }
+        }
         return root;
     }
 };
