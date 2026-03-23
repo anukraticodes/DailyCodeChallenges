@@ -1,22 +1,18 @@
 class Solution {
 public:
+    
     int longestSubstring(string s, int k) {
-        return helper(s, k, 0, s.size());
-    }
-
-    int helper(string s, int k, int st, int e){
-        if(e-st<k) return 0;
-
-        vector<int> freq(26, 0);
-        for(int i=st; i<e; i++) freq[s[i]-'a']++;
-
-        for(int i=st; i<e; i++){
-            if(freq[s[i]-'a']<k){
-                int l=helper(s, k, st, i);
-                int r=helper(s, k, i+1, e);
-                return max(l, r);
+        int ans=0;
+        for(int i=0; i<s.size(); i++){
+            map<char, int> mp;
+            for(int j=i; j<s.size(); j++){
+                mp[s[j]]++; bool flag=0;
+                for(auto it:mp){
+                   if(it.second<k) flag=1;
+                }
+                if(flag==0) ans=max(ans, j-i+1);
             }
         }
-        return e-st;
+        return ans;
     }
 };
