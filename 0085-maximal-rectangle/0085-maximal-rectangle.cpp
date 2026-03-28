@@ -25,13 +25,6 @@ public:
                     curr=min(curr, mat[k][j]);
                     ans=max(ans, curr*(k-i+1));
                 }
-
-                curr=width;
-                for(int k=i; k>=0; k--){
-                    if(mat[k][j]==0) break;
-                    curr=min(curr, mat[k][j]);
-                    ans=max(ans, curr*(i-k+1));
-                }
             }
         }
         return ans;
