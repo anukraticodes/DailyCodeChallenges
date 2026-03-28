@@ -2,30 +2,32 @@ class Solution {
 public:
     int maximalRectangle(vector<vector<char>>& matrix) {
         int n=matrix.size(), m=matrix[0].size();
-        vector<vector<int>> mat(n, vector<int>(m));
+        vector<int> hist(m, 0);
+        int ans=0;
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                mat[i][j]=matrix[i][j]-'0';
+                if(matrix[i][j]=='1') hist[j]++;
+                else hist[j]=0;
             }
+            ans=max(ans, helper(hist));
         }
-        for(int i=0; i<mat.size(); i++){
-            for(int j=1; j<mat[0].size(); j++){
-                if(mat[i][j]==1) mat[i][j]+=mat[i][j-1];
-            }
-        }
-        int ans=0;
-        for(int j=0 ; j<m; j++){
-            for(int i=0; i<n; i++){
-                int width=mat[i][j];
-                if(width==0) continue;
+        return ans;
+    }
 
-                int curr=width;
-                for(int k=i; k<n; k++){
-                    if(mat[k][j]==0) break;
-                    curr=min(curr, mat[k][j]);
-                    ans=max(ans, curr*(k-i+1));
-                }
+    int helper(vector<int>& hist){
+        int n=hist.size();
+        stack<int> st;
+        int ans=0;
+
+        for(int i=0; i<=n; i++){
+            int h=(i==n)?0:hist[i];
+            while(!st.empty() && hist[st.top()]>h){
+                int he=hist[st.top()];
+                st.pop();
+                int width=st.empty()?i:i-st.top()-1;
+                ans=max(ans, he*width);
             }
+            st.push(i);
         }
         return ans;
     }
