@@ -2,18 +2,36 @@ class Solution {
 public:
     int maximalRectangle(vector<vector<char>>& matrix) {
         int n=matrix.size(), m=matrix[0].size();
-        vector<int> h(201,0), st(201, -1);
-        int ans=0;
+        vector<vector<int>> mat(n, vector<int>(m));
         for(int i=0; i<n; i++){
-            int top=0;
-            for(int j=0; j<=m; j++){
-                h[j]=(j==m || matrix[i][j]=='0')?0:h[j]+1;
-                while(top>0 && (j==m || h[st[top]]>h[j])){
-                    int height=st[top--];
-                    int w=j-st[top]-1;
-                    ans=max(ans, h[height]*w);
+            for(int j=0; j<m; j++){
+                mat[i][j]=matrix[i][j]-'0';
+            }
+        }
+        for(int i=0; i<mat.size(); i++){
+            for(int j=1; j<mat[0].size(); j++){
+                if(mat[i][j]==1) mat[i][j]+=mat[i][j-1];
+            }
+        }
+        int ans=0;
+        for(int j=0 ; j<m; j++){
+            for(int i=0; i<n; i++){
+                int width=mat[i][j];
+                if(width==0) continue;
+
+                int curr=width;
+                for(int k=i; k<n; k++){
+                    if(mat[k][j]==0) break;
+                    curr=min(curr, mat[k][j]);
+                    ans=max(ans, curr*(k-i+1));
                 }
-                st[++top]=j;
+
+                curr=width;
+                for(int k=i; k>=0; k--){
+                    if(mat[k][j]==0) break;
+                    curr=min(curr, mat[k][j]);
+                    ans=max(ans, curr*(i-k+1));
+                }
             }
         }
         return ans;
