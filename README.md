@@ -338,6 +338,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0394-decode-string) |
@@ -690,6 +691,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0226-invert-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0386-lexicographical-numbers) |
@@ -753,6 +755,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0207-course-schedule](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
@@ -1862,6 +1865,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0226-invert-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0427-construct-quad-tree) |
@@ -1897,6 +1901,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0341-flatten-nested-list-iterator) |
@@ -1940,6 +1945,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0226-invert-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0450-delete-node-in-a-bst) |
