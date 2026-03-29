@@ -1400,6 +1400,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0567-permutation-in-string) |
@@ -1616,6 +1617,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0328-odd-even-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1900,6 +1902,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0341-flatten-nested-list-iterator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
+| [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0901-online-stock-span) |
@@ -2267,4 +2270,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0341-flatten-nested-list-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
