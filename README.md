@@ -286,6 +286,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0768-partition-labels](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0768-partition-labels) |
 | [0941-sort-array-by-parity](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0941-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0969-pancake-sorting) |
+| [0986-interval-list-intersections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0986-interval-list-intersections) |
 | [1129-longest-string-chain](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -979,6 +980,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0967-minimum-falling-path-sum) |
 | [0969-pancake-sorting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0969-pancake-sorting) |
+| [0986-interval-list-intersections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0986-interval-list-intersections) |
 | [1002-maximum-width-ramp](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1002-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -2282,4 +2284,8 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
