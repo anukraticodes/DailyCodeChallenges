@@ -1,16 +1,21 @@
 class Solution {
 public:
     vector<vector<int>> intervalIntersection(vector<vector<int>>& fl, vector<vector<int>>& sl) {
-        int i=0, j=0;
         vector<vector<int>> ans;
-
-        while(i<fl.size() && j<sl.size()){
-            int a=max(fl[i][0], sl[j][0]), b=min(fl[i][1], sl[j][1]);
-
-            if(a<=b) ans.push_back({a,b});
-
-            if(fl[i][1]<sl[j][1]) i++;
-            else j++;
+        int i=0, j=0, n=fl.size(), m=sl.size();
+        while(i<n && j<m){
+            int a=fl[i][0], b=fl[i][1], c=sl[j][0], d=sl[j][1];
+            if(b<c) {
+                i++;
+            }
+            else if(d<a) j++;
+            else{
+                int first=max(a, c), snd=min(b,d);
+                ans.push_back({first, snd});
+                if(b<d) {i++;}
+                else if(d<b) {j++;}
+                else {i++, j++;}
+            }
         }
         return ans;
     }
