@@ -1168,6 +1168,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3453-separate-squares-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3453-separate-squares-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3477-fruits-into-baskets-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3546-equal-sum-grid-partition-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -1378,6 +1379,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2685-first-completely-painted-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2728-sum-in-a-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2728-sum-in-a-matrix) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3546-equal-sum-grid-partition-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3546-equal-sum-grid-partition-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
@@ -1814,6 +1816,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -2167,6 +2170,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2998-count-symmetric-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3548-find-the-count-of-good-integers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
