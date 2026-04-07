@@ -1,36 +1,33 @@
 class Solution {
 public:
-    void solve(vector<vector<char>>& b) {
-        int n=b.size();
-        int m=b[0].size();
-        vector<vector<bool>> vis(n, vector<bool> (m, 0));
+    void solve(vector<vector<char>>& board) {
+        int n=board.size(), m=board[0].size();
         for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                if((i==0 || i==n-1 || j==0 || j==m-1) && b[i][j]=='O'){
-                     dfs(i, j, b, vis);
-                }
-            }
+            if(board[i][0]=='O') dfs(board, i, 0);
+            if(board[i][m-1]=='O') dfs(board, i, m-1);
+        }
+
+        for(int j=0; j<m; j++){
+            if(board[0][j]=='O') dfs(board, 0, j);
+            if(board[n-1][j]=='O') dfs(board, n-1, j);
         }
 
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                if(b[i][j]=='O'&& !vis[i][j]){
-                    b[i][j]='X';
-                }
+                if(board[i][j]=='O') board[i][j]='X';
+                if(board[i][j]=='#') board[i][j]='O';
             }
         }
     }
-
-    void dfs(int row, int col, vector<vector<char>>& b, vector<vector<bool>> &vis){
-        int n=b.size();
-        int m=b[0].size();
-        vis[row][col]=1;
-        int drc[5]={-1, 0, 1, 0, -1};
-        for(int i=0; i<4; i++){
-            int nrow=row+drc[i];
-            int ncol=col+drc[i+1];
-            if(nrow>=0 && ncol>=0 && nrow<n && ncol<m && !vis[nrow][ncol] && b[nrow][ncol]=='O'){
-                dfs(nrow, ncol, b, vis);
+    vector<int> drc={-1, 0, 1, 0, -1};
+    void dfs(vector<vector<char>>& board, int i, int j){
+        int n=board.size(), m=board[0].size();
+        if(i < 0 || j < 0 || i >= n || j >= m || board[i][j] != 'O') return;
+        board[i][j]='#';
+        for(int k=0; k<4; k++){
+            int nx=i+drc[k], ny=j+drc[k+1];
+            if(nx>=0 && nx<n && ny>=0 && ny<m && board[nx][ny]=='O'){
+               dfs(board, nx, ny);
             }
         }
     }
