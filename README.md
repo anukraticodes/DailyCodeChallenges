@@ -916,6 +916,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0406-queue-reconstruction-by-height) |
 | [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
@@ -1404,6 +1405,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
@@ -1687,6 +1689,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0282-expression-add-operators](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0368-largest-divisible-subset) |
+| [0380-insert-delete-getrandom-o1](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0445-add-two-numbers-ii) |
@@ -1914,6 +1917,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0341-flatten-nested-list-iterator](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0341-flatten-nested-list-iterator) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -2257,6 +2261,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 ## Radix Sort
 |  |
