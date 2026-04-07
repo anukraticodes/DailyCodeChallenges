@@ -22,13 +22,12 @@ public:
     vector<int> drc={-1, 0, 1, 0, -1};
     void dfs(vector<vector<char>>& board, int i, int j){
         int n=board.size(), m=board[0].size();
-        if(i < 0 || j < 0 || i >= n || j >= m || board[i][j] != 'O') return;
+        if(i < 0 || j < 0 || i >= n || j >= m || board[i][j]!='O') return;
         board[i][j]='#';
         for(int k=0; k<4; k++){
             int nx=i+drc[k], ny=j+drc[k+1];
-            if(nx>=0 && nx<n && ny>=0 && ny<m && board[nx][ny]=='O'){
                dfs(board, nx, ny);
-            }
+            
         }
     }
 };
