@@ -2279,6 +2279,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Iterator
 |  |
