@@ -268,6 +268,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -545,6 +546,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0049-group-anagrams) |
@@ -853,6 +855,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0031-next-permutation) |
