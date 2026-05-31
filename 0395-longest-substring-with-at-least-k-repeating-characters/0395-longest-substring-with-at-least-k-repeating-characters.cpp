@@ -1,23 +1,21 @@
 class Solution {
 public:
     int longestSubstring(string s, int k) {
-        if(s.size()<k) return 0;
         int ans=0;
-        for(int u=1; u<=26; u++){ //for all u from 1 to 26 just try out which one has max unique chars satifying the condition, kind of feels like brute force to me but its optimal since o(26) is constant
-            int l=0; unordered_set<char> cnt;
-            unordered_map<char, int> freq;
-            for(int r=0; r<s.size(); r++){
-              freq[s[r]]++;
-              if(!cnt.count(s[r]) && freq[s[r]]>=k) cnt.insert(s[r]);
-              while(freq.size()>u && l<r){
-                freq[s[l]]--;
-                if(cnt.count(s[l]) && freq[s[l]]<k) cnt.erase(s[l]);
-                if(freq[s[l]]==0) {freq.erase(s[l]);}
-                l++;
-              }
-              if(cnt.size()==u && freq.size()==u) ans=max(ans, r-l+1); 
-            }
-        }
+        fn(0, s.size()-1, s, ans, k);
         return ans;
+    }
+
+    void fn(int st, int e, string& s, int& ans, int k){
+        unordered_map<char, int> mp;
+        for(int i=st; i<=e; i++) mp[s[i]]++;
+       for(int i=st; i<=e; i++){
+          if(mp[s[i]]<k){
+            fn(st, i-1, s, ans, k);
+            fn(i+1, e, s,ans, k);
+            return ;
+          }
+       }
+       ans=max(ans, e-st+1);
     }
 };
