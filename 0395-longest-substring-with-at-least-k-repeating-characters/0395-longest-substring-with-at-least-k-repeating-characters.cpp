@@ -1,16 +1,21 @@
 class Solution {
 public:
-    
     int longestSubstring(string s, int k) {
+        if(s.size()<k) return 0;
         int ans=0;
-        for(int i=0; i<s.size(); i++){
-            map<char, int> mp;
-            for(int j=i; j<s.size(); j++){
-                mp[s[j]]++; bool flag=0;
-                for(auto it:mp){
-                   if(it.second<k) flag=1;
-                }
-                if(flag==0) ans=max(ans, j-i+1);
+        for(int u=1; u<=26; u++){
+            int l=0; unordered_set<char> cnt;
+            unordered_map<char, int> freq;
+            for(int r=0; r<s.size(); r++){
+              freq[s[r]]++;
+              if(!cnt.count(s[r]) && freq[s[r]]>=k) cnt.insert(s[r]);
+              while(freq.size()>u && l<r){
+                freq[s[l]]--;
+                if(cnt.count(s[l]) && freq[s[l]]<k) cnt.erase(s[l]);
+                if(freq[s[l]]==0) {freq.erase(s[l]);}
+                l++;
+              }
+              if(cnt.size()==u && freq.size()==u) ans=max(ans, r-l+1); 
             }
         }
         return ans;
