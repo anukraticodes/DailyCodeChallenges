@@ -3,7 +3,7 @@ public:
     int longestSubstring(string s, int k) {
         if(s.size()<k) return 0;
         int ans=0;
-        for(int u=1; u<=26; u++){
+        for(int u=1; u<=26; u++){ //for all u from 1 to 26 just try out which one has max unique chars satifying the condition, kind of feels like brute force to me but its optimal since o(26) is constant
             int l=0; unordered_set<char> cnt;
             unordered_map<char, int> freq;
             for(int r=0; r<s.size(); r++){
