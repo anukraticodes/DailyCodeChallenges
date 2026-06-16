@@ -337,6 +337,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0241-different-ways-to-add-parentheses](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0282-expression-add-operators) |
@@ -691,6 +692,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0200-number-of-islands](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1917,6 +1919,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | ------- |
 | [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0303-range-sum-query-immutable) |
@@ -2190,6 +2193,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0692-top-k-frequent-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0692-top-k-frequent-words) |
