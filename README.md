@@ -1891,6 +1891,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0437-path-sum-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0700-search-in-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1949,6 +1950,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1972,6 +1974,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0437-path-sum-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0700-search-in-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
