@@ -629,6 +629,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1189,6 +1190,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3637-trionic-array-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3637-trionic-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3731-find-missing-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3731-find-missing-elements) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1510,6 +1512,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-find-missing-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
