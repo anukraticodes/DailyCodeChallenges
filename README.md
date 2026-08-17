@@ -1406,6 +1406,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0127-word-ladder](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0208-implement-trie-prefix-tree) |
@@ -1636,6 +1637,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
@@ -1924,6 +1926,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -2320,6 +2323,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
 ## Sweep Line
 |  |
