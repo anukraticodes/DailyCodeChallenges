@@ -1,53 +1,62 @@
 class LRUCache {
 public:
-map<int, list<pair<int, int>>::iterator> mp;
-int cap;
-list<pair<int, int>> dll;
+    struct Node {
+        Node *nxt, *prv;
+        int key, val;
+        Node(int k, int v) : key(k), val(v), nxt(nullptr), prv(nullptr) {}
+    };
+
+    int cap;
+    Node *head, *tail; // Dummy sentinel nodes
+    unordered_map<int, Node*> mp;
+
     LRUCache(int capacity) {
-        cap=capacity;
+        cap = capacity;
+        head = new Node(-1, -1);
+        tail = new Node(-1, -1);
+        head->nxt = tail;
+        tail->prv = head;
     }
-    
+
+    void removeNode(Node* node) {
+        node->prv->nxt = node->nxt;
+        node->nxt->prv = node->prv;
+    }
+
+    void addNode(Node* node) { // Inserts right after dummy head
+        node->nxt = head->nxt;
+        node->prv = head;
+        head->nxt->prv = node;
+        head->nxt = node;
+    }
+
     int get(int key) {
-        if(mp.count(key)){
-            auto it=mp[key];
-            int val=it->second;
-            dll.erase(it);
-            dll.push_front({key, val});
-            auto it2=dll.begin();
-            mp[key]=it2;
-            return val;
-        }
-        return -1;
+        if (!mp.count(key)) return -1;
+        
+        Node* node = mp[key];
+        removeNode(node);
+        addNode(node);
+        return node->val;
     }
-    
+
     void put(int key, int value) {
-        if(mp.count(key)){
-            auto it=mp[key];
-            dll.erase(it);
-            dll.push_front({key, value});
-            auto it2=dll.begin();
-            mp[key]=it2;
+        if (mp.count(key)) {
+            Node* node = mp[key];
+            node->val = value;
+            removeNode(node);
+            addNode(node);
+            return;
         }
-        else if(mp.size()<cap){
-            dll.push_front({key, value});
-            auto it=dll.begin();
-            mp[key]=it;
+
+        if (mp.size() == cap) {
+            Node* lru = tail->prv; // Real LRU node
+            removeNode(lru);
+            mp.erase(lru->key);
+            delete lru;
         }
-        else{
-        auto it=dll.back();
-        int k=it.first;
-        dll.pop_back();
-        mp.erase(k);
-        dll.push_front({key, value});
-        auto it2=dll.begin();
-        mp[key]=it2;
-        }
+
+        Node* node = new Node(key, value);
+        addNode(node);
+        mp[key] = node;
     }
 };
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache* obj = new LRUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
