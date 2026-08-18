@@ -563,6 +563,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0406-queue-reconstruction-by-height](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
@@ -935,6 +936,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0427-construct-quad-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
@@ -1421,6 +1423,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0496-next-greater-element-i) |
