@@ -560,6 +560,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0436-find-right-interval) |
@@ -642,6 +643,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0347-top-k-frequent-elements](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0621-task-scheduler) |
@@ -927,6 +929,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0399-evaluate-division) |
@@ -1358,6 +1361,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0130-surrounded-regions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0407-trapping-rain-water-ii) |
 | [0427-construct-quad-tree](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0427-construct-quad-tree) |
 | [0529-minesweeper](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0529-minesweeper) |
@@ -1588,6 +1592,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0350-intersection-of-two-arrays-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0374-guess-number-higher-or-lower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0493-reverse-pairs) |
