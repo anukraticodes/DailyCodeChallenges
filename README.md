@@ -997,6 +997,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0966-binary-subarrays-with-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0967-minimum-falling-path-sum) |
 | [0969-pancake-sorting](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0969-pancake-sorting) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [0986-interval-list-intersections](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0986-interval-list-intersections) |
 | [1002-maximum-width-ramp](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1002-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1004-max-consecutive-ones-iii) |
@@ -1665,6 +1666,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0682-baseball-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0921-spiral-matrix-iii) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
