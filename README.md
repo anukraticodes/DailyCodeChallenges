@@ -1145,6 +1145,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2685-first-completely-painted-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2718-sum-of-matrix-after-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2718-sum-of-matrix-after-queries) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2728-sum-in-a-matrix) |
@@ -1508,6 +1509,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2626-count-the-number-of-good-subarrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2685-first-completely-painted-row-or-column) |
+| [2718-sum-of-matrix-after-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2718-sum-of-matrix-after-queries) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2888-minimum-index-of-a-valid-split) |
