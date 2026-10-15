@@ -810,6 +810,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1753-path-with-minimum-effort](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2258-escape-the-spreading-fire](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2258-escape-the-spreading-fire) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -1107,6 +1108,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2258-escape-the-spreading-fire](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2258-escape-the-spreading-fire) |
 | [2262-solving-questions-with-brainpower](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-number-of-ways-to-split-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2270-number-of-ways-to-split-array) |
@@ -1394,6 +1396,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2258-escape-the-spreading-fire](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2258-escape-the-spreading-fire) |
 | [2428-equal-row-and-column-pairs](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2643-row-with-maximum-ones](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2643-row-with-maximum-ones) |
@@ -1631,6 +1634,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2258-escape-the-spreading-fire](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2258-escape-the-spreading-fire) |
 | [2280-count-good-triplets-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2394-count-subarrays-with-score-less-than-k) |
