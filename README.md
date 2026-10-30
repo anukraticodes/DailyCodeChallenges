@@ -1434,6 +1434,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0432-all-oone-data-structure) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
@@ -1658,6 +1659,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0234-palindrome-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
+| [0432-all-oone-data-structure](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -1957,6 +1959,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0355-design-twitter](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -2342,6 +2345,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0460-lfu-cache) |
 ## Sweep Line
 |  |
