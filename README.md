@@ -480,6 +480,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1880-largest-merge-of-two-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1880-largest-merge-of-two-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1917-maximum-average-pass-ratio) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1975-maximum-matrix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1975-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1084,6 +1085,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1927-maximum-ascending-subarray-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1975-maximum-matrix-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1995-finding-pairs-with-a-certain-sum) |
