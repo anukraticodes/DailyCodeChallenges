@@ -381,6 +381,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1496-path-crossing](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1496-path-crossing) |
 | [1502-construct-k-palindrome-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -1478,6 +1479,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [1392-find-the-difference-of-two-arrays](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1496-path-crossing](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1496-path-crossing) |
 | [1500-count-largest-group](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1510-find-lucky-integer-in-an-array) |
