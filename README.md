@@ -985,6 +985,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0853-car-fleet](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0853-car-fleet) |
 | [0854-making-a-large-island](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0904-fruit-into-baskets) |
@@ -1454,6 +1455,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0846-hand-of-straights](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0874-walking-robot-simulation) |
 | [0889-buddy-strings](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0889-buddy-strings) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0904-fruit-into-baskets) |
@@ -1677,6 +1679,7 @@ Daily coding exercises, challenges, and snippets to enhance programming skills i
 | [0412-fizz-buzz](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0874-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0921-spiral-matrix-iii) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/anukraticodes/DailyCodeChallenges/tree/master/1545-find-kth-bit-in-nth-binary-string) |
